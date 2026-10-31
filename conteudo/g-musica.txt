@@ -1,0 +1,248 @@
+# o-que-e-musica | O que é música? | Som, silêncio e organização | Música | Linguagem musical | som | PianOrquestra no Theatro Municipal do Rio de Janeiro, 2010.jpg
+C: Música | Arte de organizar sons e silêncios no tempo, criando ritmo, melodia e harmonia. | Uma batucada, uma sinfonia e um funk são música.
+T: Música está em toda parte | Festas, rituais e religiões ; Trabalho, como os cantos de roda ; Cinema, games e propagandas ; Momentos de alegria e tristeza
+Q: Sem música, a vida seria um erro. | Friedrich Nietzsche | Crepúsculo dos Ídolos, 1888
+X: Som e ruído | Som musical: Vibração regular ; Altura definida ; Ex.: nota de violão | Ruído: Vibração irregular ; Altura indefinida ; Ex.: chiado, batida de porta
+T: Silêncio também é música | As pausas organizam o ritmo ; O silêncio cria suspense ; John Cage compôs 4'33", só de silêncio ; Os sons do ambiente viram a obra
+D: Qualquer som pode virar música? | Barulho de cozinha? Chuva? ; Sua playlist diz quem você é? ; Existe música ruim?
+A: Paisagem sonora | celular para gravar ; caderno | Feche os olhos por dois minutos e liste os sons ao redor ; Grave três sons da escola ; Organize os sons numa sequência ; Apresente a "música da escola"
+R: Organização de sons e silêncios ; Ritmo, melodia, harmonia ; Som e ruído ; Silêncio como parte da música | O Enem cobra a música como linguagem e sua função social.
+
+# propriedades-do-som | Propriedades do som | Altura, duração, intensidade e timbre | Música | Linguagem musical | som | 
+T: As quatro propriedades | Altura: grave ou agudo ; Duração: curto ou longo ; Intensidade: forte ou fraco ; Timbre: a "cor" de cada som
+C: Altura | Propriedade que diferencia sons graves de agudos, ligada à frequência da vibração. | A voz de um bebê é aguda; o som de uma tuba é grave.
+C: Timbre | Característica que permite reconhecer quem ou o que produz o som, mesmo na mesma nota. | Reconhecemos a voz de alguém pelo telefone.
+X: Intensidade e altura | Intensidade: Volume ; Forte ou fraco ; Medido em decibéis | Altura: Frequência ; Grave ou agudo ; Medido em hertz
+T: Na partitura | Notas mais altas na pauta são mais agudas ; Figuras indicam a duração ; Letras como p (piano) e f (forte) indicam a intensidade ; Cada instrumento tem seu timbre
+D: Por que ouvir música muito alta faz mal? | Fones de ouvido e surdez ; Limite seguro de volume ; Como cuidar da audição?
+A: Orquestra de objetos | objetos da sala ; garrafas com água | Encontre sons graves e agudos com objetos ; Afine garrafas com quantidades diferentes de água ; Toque sons curtos e longos, fortes e fracos ; Crie uma pequena música em grupo
+R: Altura ; Duração ; Intensidade ; Timbre | Questões pedem para identificar propriedades do som em situações do dia a dia.
+
+# ritmo-melodia-harmonia | Ritmo, melodia e harmonia | Os elementos da música | Música | Linguagem musical | som | 
+C: Ritmo | Organização das durações dos sons e pausas no tempo, com uma pulsação. | Bater palmas no samba e no rock em velocidades diferentes.
+C: Melodia | Sequência de sons de alturas diferentes, que forma uma linha musical que podemos cantar. | A parte que você assobia de uma música.
+C: Harmonia | Combinação de sons tocados ao mesmo tempo, formando acordes. | O violão que acompanha a voz.
+T: Pulsação e andamento | Pulsação: a batida regular, como o coração ; Andamento: a velocidade da música ; Compasso: o agrupamento das batidas ; O maestro marca o andamento
+X: Melodia e harmonia | Melodia: Linha horizontal ; Uma nota após a outra ; O que se canta | Harmonia: Bloco vertical ; Notas ao mesmo tempo ; O que acompanha
+D: Uma música pode ter só ritmo? | Batucadas e tambores ; Rap e percussão vocal ; O que é mais importante para você?
+A: Body percussion | o próprio corpo | Crie um ritmo de quatro tempos com palmas, pés e estalos ; Ensine para a turma ; Divida em dois grupos com ritmos diferentes ; Cantem uma melodia conhecida por cima
+R: Ritmo é tempo ; Melodia é linha ; Harmonia é acorde ; Pulsação e andamento | Os elementos da música aparecem em questões de leitura de canções e partituras simples.
+
+# instrumentos-musicais | Instrumentos musicais | As famílias dos instrumentos | Música | Linguagem musical | som | PianOrquestra no Theatro Municipal do Rio de Janeiro, 2010.jpg
+T: Famílias da orquestra | Cordas: violino, viola, violoncelo, contrabaixo ; Madeiras: flauta, clarinete, oboé, fagote ; Metais: trompete, trompa, trombone, tuba ; Percussão: tímpanos, pratos, xilofone
+X: Como o som é produzido | Cordas e sopros: Cordas vibram ; O ar vibra dentro do tubo | Percussão e eletrônicos: Batida na pele ou no corpo do instrumento ; Sinal elétrico e digital
+T: Instrumentos brasileiros | Berimbau, da capoeira ; Pandeiro e cuíca, do samba ; Zabumba e triângulo, do forró ; Cavaquinho e viola caipira
+O: PianOrquestra | Grupo PianOrquestra ; 2010 ; piano tocado por várias mãos ; Theatro Municipal do Rio de Janeiro | Um só piano, muitas pessoas ; Sons novos tirados de um instrumento tradicional ; Música como invenção
+D: Que instrumento combina com você? | Por que escolheu? ; Celular e computador são instrumentos? ; A voz é um instrumento?
+A: Instrumento reciclado | garrafas, latas, elásticos, grãos | Escolha uma família: corda, sopro ou percussão ; Construa um instrumento com material reciclado ; Teste sons graves e agudos ; Toque em uma banda da turma
+R: Cordas, madeiras, metais e percussão ; Formas de produzir som ; Instrumentos brasileiros ; Voz e tecnologia | Questões pedem classificação de instrumentos e relação com gêneros musicais.
+
+# orquestra | A orquestra | Muitos músicos, um só som | Música | Linguagem musical | som | PianOrquestra no Theatro Municipal do Rio de Janeiro, 2010.jpg
+C: Orquestra sinfônica | Grande conjunto de músicos com cordas, madeiras, metais e percussão, regido por um maestro. | Pode ter de 60 a mais de 100 músicos.
+T: O maestro | Marca o andamento e as entradas ; Equilibra os volumes ; Interpreta a obra ; Ensaia e escolhe o repertório
+T: Disposição no palco | Cordas na frente, perto do maestro ; Madeiras no meio ; Metais atrás ; Percussão no fundo
+X: Orquestra e banda | Orquestra sinfônica: Muitas cordas ; Repertório erudito ; Maestro | Banda: Mais sopros e percussão ; Bandas marciais e de música popular ; Regente ou líder
+T: Orquestras sociais no Brasil | Projeto Guri, em São Paulo ; Neojibá, na Bahia ; Orquestra Maré do Amanhã, no Rio ; Música para transformar vidas
+D: Por que a orquestra parece coisa de elite? | Preço dos ingressos ; Onde ficam os teatros ; Como aproximar a música clássica do público?
+A: Regência da turma | um aluno maestro ; sons do corpo | Divida a turma em quatro "naipes" ; Cada naipe cria um som ; O maestro controla entradas e volume com gestos ; Troquem de maestro
+R: Cordas, madeiras, metais e percussão ; O papel do maestro ; Disposição no palco ; Projetos sociais | A orquestra aparece em questões sobre música erudita e acesso à cultura.
+
+# musica-antiga-e-medieval | Música na Antiguidade e na Idade Média | Dos gregos ao canto gregoriano | Música | História da música | som | Les Très Riches Heures du duc de Berry juin.jpg
+T: Música na Antiguidade | Gregos usavam a lira e o aulos ; Pitágoras estudou as proporções das notas ; A música fazia parte do teatro ; A palavra música vem das Musas
+C: Canto gregoriano | Canto religioso medieval, em latim, a uma só voz e sem acompanhamento. | Nome ligado ao papa Gregório I.
+T: Notação musical | Os monges criaram sinais para lembrar as melodias ; Guido d'Arezzo deu nomes às notas, por volta de 1025 ; Ut, ré, mi, fá, sol, lá ; O "ut" virou "dó"
+X: Música sacra e profana | Sacra: Igreja ; Latim ; Canto gregoriano | Profana: Festas e cortes ; Línguas do povo ; Trovadores
+D: Por que a música religiosa medieval era tão simples? | Uma só voz ; Sem instrumentos ; O silêncio da igreja ; Que efeito isso causa?
+A: Cantar sem instrumentos | a voz da turma | Escolham uma melodia simples ; Cantem todos em uníssono, devagar ; Depois, um grupo canta e outro responde ; Comparem com um canto a várias vozes
+R: Gregos e a lira ; Canto gregoriano ; Notação e nomes das notas ; Sacra e profana | Questões relacionam música medieval, trovadorismo e religiosidade.
+
+# musica-barroca | Música barroca | Bach, Vivaldi e o contraponto | Música | História da música | barroco | 
+C: Música barroca | Música composta entre cerca de 1600 e 1750, com muitos ornamentos, contrastes e vozes que se entrelaçam. | Época da criação da ópera.
+B: Johann Sebastian Bach | 1685 – 1750 | Compositor alemão ; Trabalhou para igrejas e cortes ; Mestre do contraponto e da fuga ; Teve 20 filhos, vários músicos
+B: Antonio Vivaldi | 1678 – 1741 | Compositor e padre de Veneza ; Ensinava música a meninas de um orfanato ; Compôs As Quatro Estações ; Mais de 500 concertos
+C: Contraponto | Técnica de combinar várias melodias independentes ao mesmo tempo. | Como várias pessoas conversando em harmonia.
+D: Por que As Quatro Estações aparece em comerciais e filmes? | Música que descreve imagens ; Energia e contraste ; Você reconhece o trecho da Primavera?
+A: Estações em sons | instrumentos simples ; objetos | Escolha uma estação do ano ; Crie sons para chuva, vento ou sol ; Organize uma pequena peça de um minuto ; Apresente sem dizer qual estação é
+R: Cerca de 1600 a 1750 ; Bach e o contraponto ; Vivaldi e As Quatro Estações ; Nascimento da ópera | A música barroca é cobrada junto ao Barroco nas artes visuais.
+
+# classicismo-musical | Classicismo musical | Mozart, Haydn e Beethoven | Música | História da música | galeria | 
+C: Classicismo musical | Período de cerca de 1750 a 1820, com músicas claras, equilibradas e formas como a sinfonia e a sonata. | Viena foi a capital da música clássica.
+B: Wolfgang Amadeus Mozart | 1756 – 1791 | Nasceu em Salzburgo, Áustria ; Criança-prodígio, tocava para reis aos 6 anos ; Compôs mais de 600 obras ; Óperas como A Flauta Mágica
+B: Ludwig van Beethoven | 1770 – 1827 | Nasceu em Bonn, Alemanha ; Ficou surdo e continuou compondo ; Compôs a Nona Sinfonia, com o Hino à Alegria ; Ponte entre o Classicismo e o Romantismo
+C: Sinfonia | Obra para orquestra, geralmente em quatro movimentos, com ritmos e climas diferentes. | A Quinta Sinfonia de Beethoven começa com quatro notas famosas.
+D: Como alguém surdo compõe música? | Beethoven ouvia na imaginação ; Sentia as vibrações ; O que a música é sem o som?
+A: Música clássica em imagens | papel ; lápis de cor ; trechos de música | Ouça um trecho de Mozart e outro de Beethoven ; Desenhe o que cada um faz sentir ; Compare os desenhos da turma ; Discuta: o que mudou de um para o outro?
+R: Equilíbrio e clareza ; Viena ; Mozart e Haydn ; Beethoven e a transição | Mozart e Beethoven aparecem em questões sobre música erudita.
+
+# romantismo-musical | Romantismo musical | Emoção, nação e virtuosismo | Música | História da música | expressao | 
+C: Romantismo musical | Música do século XIX que valorizou a emoção, a liberdade, o virtuosismo e as raízes nacionais. | Chopin, Liszt, Wagner, Verdi e Tchaikovsky.
+T: Características | Melodias muito expressivas ; Orquestras maiores ; Músicos virtuoses, como estrelas ; Temas nacionais e folclóricos
+T: Compositores | Frédéric Chopin e o piano ; Giuseppe Verdi e a ópera italiana ; Pyotr Tchaikovsky e os balés ; Carlos Gomes, brasileiro, com a ópera O Guarani
+B: Carlos Gomes | 1836 – 1896 | Nasceu em Campinas, São Paulo ; Estudou em Milão, na Itália ; A ópera O Guarani estreou no Scala em 1870 ; Inspirada no romance de José de Alencar
+D: Música pode representar um país? | Hinos nacionais ; Músicas que viram símbolos ; Qual música representa o Brasil para você?
+A: Trilha de emoção | trechos musicais ; papel | Ouça três trechos românticos ; Escreva a emoção de cada um ; Crie uma cena de filme para cada trecho ; Apresente como um "trailer"
+R: Emoção e liberdade ; Virtuoses ; Nacionalismo musical ; Carlos Gomes e O Guarani | O Romantismo musical dialoga com o Romantismo literário de Alencar.
+
+# musica-do-seculo-xx | Música do século XX | Novos sons e rupturas | Música | História da música | sonho | 
+T: Rupturas | Atonalismo: músicas sem centro tonal ; Música eletrônica e concreta ; Minimalismo: repetições hipnóticas ; Silêncio e acaso, com John Cage
+T: Compositores | Igor Stravinsky: A Sagração da Primavera (1913) ; Arnold Schoenberg e o atonalismo ; Philip Glass e o minimalismo ; Villa-Lobos no Brasil
+C: Música concreta | Música feita com sons gravados do ambiente e manipulados em fita. | Ruídos de trem e de cozinha viraram composição.
+T: O escândalo de 1913 | A Sagração da Primavera estreou em Paris ; Ritmos violentos e dissonâncias ; O público brigou na plateia ; Hoje é um clássico
+D: Por que músicas novas costumam causar estranhamento? | O ouvido se acostuma ; O que era ruído vira música ; Que estilo de hoje será clássico amanhã?
+A: Música concreta da escola | celular | Grave dez sons da escola ; Corte e repita trechos ; Monte uma faixa de um minuto ; Apresente como "Sinfonia da Escola"
+R: Atonalismo e dissonância ; Música concreta e eletrônica ; Minimalismo ; Stravinsky e Cage | A música do século XX aparece ligada às vanguardas artísticas.
+
+# villa-lobos | Heitor Villa-Lobos | O Brasil em forma de música | Música | Música brasileira | som | 
+B: Heitor Villa-Lobos | 1887 – 1959 | Nasceu no Rio de Janeiro ; Viajou pelo Brasil ouvindo música popular ; Participou da Semana de 22 ; Compôs mais de mil obras
+T: Obras | Bachianas Brasileiras: Bach com sons do Brasil ; Choros, para vários instrumentos ; O Trenzinho do Caipira ; Canções para crianças e corais
+C: Canto orfeônico | Projeto de canto coral nas escolas, criado por Villa-Lobos nos anos 1930. | Reuniu milhares de estudantes em grandes corais.
+X: Erudito e popular | Erudito: Orquestra ; Formas como a sinfonia ; Escrito em partitura | Popular: Choro, modinhas, cantigas ; Ritmos brasileiros ; Villa-Lobos misturou os dois
+D: Por que Villa-Lobos é chamado de antropófago da música? | Devorou Bach e o choro ; Criou algo novo ; Quem faz isso hoje?
+A: Trenzinho do caipira | o corpo e objetos | Ouça O Trenzinho do Caipira ; Imite com sons o trem partindo, correndo e parando ; Crie um "trem" de sons da turma ; Desenhe a paisagem que o trem atravessa
+R: Maior compositor brasileiro ; Bachianas e Choros ; Semana de 22 ; Canto orfeônico | Villa-Lobos é cobrado ligado ao Modernismo e ao nacionalismo musical.
+
+# samba | Samba | Da Pequena África para o mundo | Música | Música brasileira | brasil | Samba Parade - Rio's Carnival 2008.jpg
+C: Samba | Gênero musical e dança de origem afro-brasileira, nascido na Bahia e consolidado no Rio de Janeiro. | Patrimônio Cultural do Brasil.
+L: Linha do tempo | 1916: Pelo Telefone, primeiro samba registrado ; 1928: fundação da Deixa Falar, primeira escola de samba ; Anos 1930: era de ouro do rádio ; 2007: samba carioca vira patrimônio imaterial
+T: Bambas do samba | Donga e Pixinguinha ; Cartola e Dona Ivone Lara ; Nelson Cavaquinho e Clementina de Jesus ; Zeca Pagodinho e Beth Carvalho
+T: Tipos de samba | Samba de roda, do Recôncavo Baiano ; Samba-enredo ; Samba-canção ; Pagode
+D: Por que o samba já foi perseguido pela polícia? | Racismo contra a cultura negra ; Como virou símbolo nacional? ; Isso acontece com o funk hoje?
+A: Roda de samba | pandeiro, caixas, palmas | Aprenda a marcar o ritmo do samba com palmas ; Divida a turma: grave e agudo ; Cantem um samba conhecido ; Criem um refrão sobre a escola
+R: Origem afro-brasileira ; Pelo Telefone (1916) ; Escolas de samba ; Cartola, Dona Ivone Lara, Pixinguinha | O samba é cobrado como patrimônio e expressão da cultura negra.
+
+# choro | Choro | A música instrumental brasileira | Música | Música brasileira | som | 
+C: Choro | Gênero instrumental surgido no Rio de Janeiro por volta de 1870, misturando polca e ritmos afro-brasileiros. | Também chamado de chorinho.
+T: O regional de choro | Flauta ou bandolim na melodia ; Cavaquinho no ritmo ; Violão de 7 cordas nos graves ; Pandeiro
+T: Mestres | Joaquim Callado, pioneiro ; Chiquinha Gonzaga ; Pixinguinha: Carinhoso ; Jacob do Bandolim e Waldir Azevedo
+B: Chiquinha Gonzaga | 1847 – 1935 | Primeira mulher maestrina do Brasil ; Compôs Ó Abre Alas (1899), primeira marchinha de carnaval ; Enfrentou o preconceito da família e da sociedade ; Lutou pelos direitos autorais
+D: Por que o choro é chamado de música "difícil"? | Virtuosismo e improviso ; Rodas de choro em bares ; Como aprender ouvindo?
+A: Pergunta e resposta | instrumentos ou voz | O professor toca ou canta uma frase curta ; Um aluno responde com outra ; Façam uma roda de improviso ; Mudem os instrumentos
+R: Rio de Janeiro, c. 1870 ; Regional de choro ; Pixinguinha e Chiquinha Gonzaga ; Improviso e virtuosismo | O choro aparece em questões sobre música instrumental brasileira.
+
+# bossa-nova | Bossa nova | Um banquinho e um violão | Música | Música brasileira | impressao | 
+C: Bossa nova | Movimento musical surgido no Rio no fim dos anos 1950, com voz suave, violão de batida diferente e harmonias sofisticadas. | Mistura de samba e jazz.
+L: Marcos | 1958: Chega de Saudade, com João Gilberto ; 1962: Garota de Ipanema ; 1964: álbum com Stan Getz faz sucesso mundial ; Anos 1960: a bossa chega ao mundo todo
+T: Criadores | João Gilberto e a batida do violão ; Tom Jobim, compositor ; Vinicius de Moraes, poeta ; Nara Leão, a "musa"
+Q: O Brasil não é para principiantes. | Tom Jobim | frase atribuída
+D: Por que a bossa nova fez tanto sucesso no exterior? | Imagem de um Brasil moderno ; Sofisticação musical ; Que música brasileira faz sucesso hoje lá fora?
+A: Canto suave | violão ou base gravada | Ouça Garota de Ipanema ; Cante em volume baixo, como João Gilberto ; Compare com um samba-enredo ; Discuta como o volume muda a emoção
+R: Fim dos anos 1950 ; Samba e jazz ; João Gilberto, Tom e Vinicius ; Sucesso mundial | A bossa nova é cobrada como expressão do Brasil moderno dos anos 1950.
+
+# tropicalia | Tropicália | Guitarras, berimbau e antropofagia | Música | Música brasileira | pop | 
+C: Tropicália | Movimento cultural de 1967 e 1968 que misturou rock, música popular, poesia e artes visuais, com crítica e humor. | Retomou a antropofagia de Oswald de Andrade.
+T: Participantes | Caetano Veloso e Gilberto Gil ; Gal Costa e Os Mutantes ; Tom Zé e Torquato Neto ; Rogério Duprat nos arranjos
+T: O disco-manifesto | Tropicália ou Panis et Circencis (1968) ; Guitarras elétricas e orquestra ; Letras com imagens surreais ; A capa imitava uma foto de família
+Q: É proibido proibir. | Caetano Veloso | canção de 1968
+D: Por que a guitarra elétrica gerou protesto? | A "Marcha contra a guitarra" em 1967 ; Nacionalismo e imperialismo ; O que é música "brasileira de verdade"?
+A: Mistura tropicalista | músicas variadas ; celular | Escolham uma música brasileira tradicional e uma estrangeira ; Criem uma versão que misture as duas ; Inventem uma letra com imagens absurdas ; Apresentem
+R: 1967 e 1968 ; Caetano, Gil, Gal, Mutantes ; Antropofagia musical ; Ditadura e exílio | A Tropicália é cobrada junto à antropofagia, à ditadura e à cultura de massa.
+
+# musica-nordestina | Música nordestina | Baião, xote e forró | Música | Música brasileira | brasil | 
+T: Ritmos | Baião ; Xote ; Xaxado ; Forró pé de serra
+B: Luiz Gonzaga | 1912 – 1989 | Nasceu em Exu, Pernambuco ; Chamado de Rei do Baião ; Asa Branca, sobre a seca ; Levou o Nordeste para o rádio
+T: O trio de forró | Sanfona na melodia ; Zabumba nos graves ; Triângulo no ritmo ; Voz contando histórias do sertão
+T: Outros nomes | Jackson do Pandeiro ; Dominguinhos ; Marinês ; Elba Ramalho e Alceu Valença
+D: Por que tantas músicas falam de saudade da terra? | A migração para o Sudeste ; Asa Branca e a seca ; Que música lembra sua origem?
+A: Forró na sala | instrumentos ou objetos | Toque o ritmo do baião com palmas e pés ; Divida em zabumba, triângulo e voz ; Cante Asa Branca ; Escreva uma estrofe sobre a sua cidade
+R: Baião, xote, xaxado, forró ; Luiz Gonzaga ; Trio de forró ; Migração e saudade | Asa Branca e Luiz Gonzaga são presenças frequentes em provas.
+
+# mpb | MPB | Música Popular Brasileira | Música | Música brasileira | brasil | 
+C: MPB | Sigla para Música Popular Brasileira, que reúne compositores dos anos 1960 em diante, com letras poéticas e mistura de ritmos. | Nasceu nos festivais de música da TV.
+T: Festivais da canção | Grandes programas de TV nos anos 1960 ; Público dividido em torcidas ; Disparada, A Banda, Arrastão ; Revelaram Chico, Caetano, Gil e Elis
+T: Nomes | Chico Buarque ; Elis Regina ; Milton Nascimento e o Clube da Esquina ; Gal Costa e Maria Bethânia
+T: Canção e censura | A ditadura censurava letras ; Compositores usavam metáforas ; Cálice, de Chico e Gil ; Apesar de Você, de Chico
+D: Qual é a MPB de hoje? | O que mudou ; Quem são os novos compositores? ; MPB é um gênero ou uma ideia?
+A: Leitura de canção | letra impressa ; áudio | Ouça uma canção censurada da época ; Leia a letra e sublinhe as metáforas ; Pesquise o contexto ; Explique a mensagem escondida
+R: Festivais dos anos 1960 ; Chico, Elis, Milton, Gil ; Censura e metáforas ; Poesia na canção | A MPB é muito cobrada no Enem por meio de letras de canção.
+
+# rock-brasileiro | Rock brasileiro | Da Jovem Guarda ao BRock | Música | Música brasileira | pop | 
+L: Linha do tempo | Anos 1950: Celly Campello e o rock em português ; 1965: Jovem Guarda, com Roberto e Erasmo ; Anos 1970: Raul Seixas e Rita Lee ; Anos 1980: o BRock
+T: Rock dos anos 1980 | Legião Urbana ; Titãs e Paralamas do Sucesso ; Barão Vermelho e Cazuza ; Rock in Rio, em 1985
+C: BRock | Nome dado ao rock brasileiro dos anos 1980, com letras em português sobre juventude, política e cidade. | Legião Urbana cantava Que País É Este, em 1987.
+X: Jovem Guarda e BRock | Jovem Guarda (anos 1960): Romance e diversão ; Roberto e Erasmo Carlos ; Programa de TV | BRock (anos 1980): Crítica social ; Bandas de Brasília, Rio e São Paulo ; Rádio e grandes festivais
+B: Rita Lee | 1947 – 2023 | Começou nos Mutantes ; Chamada de Rainha do Rock brasileiro ; Unia humor, rebeldia e feminismo ; Uma das artistas que mais vendeu discos no país
+D: Por que o rock dos anos 1980 falava tanto de política? | Fim da ditadura ; Juventude e liberdade ; Que estilo fala por sua geração?
+A: Banda imaginária | papel ; canetas | Criem uma banda de rock da turma ; Escolham nome, estilo e logotipo ; Escrevam o refrão da primeira música ; Façam a capa do disco
+R: Jovem Guarda ; Raul Seixas e Rita Lee ; BRock dos anos 1980 ; Redemocratização | O rock brasileiro aparece ligado à juventude e à redemocratização.
+
+# rap-e-hip-hop | Rap e hip-hop | A voz das periferias | Música | Música brasileira | pop | Grafite - Paulo Speto, Museu Afro Brasil 1.JPG
+C: Hip-hop | Cultura nascida nos bairros negros e latinos de Nova York nos anos 1970, com quatro elementos: rap, DJ, breaking e grafite. | Chegou ao Brasil nos anos 1980.
+T: Os quatro elementos | MC: o rap, a rima ; DJ: a mixagem dos discos ; B-boys e b-girls: o breaking ; Grafite: a arte visual
+T: Rap brasileiro | Racionais MC's e Sobrevivendo no Inferno (1997) ; Sabotage ; Emicida e Criolo ; Karol Conká e Djonga
+C: Rima e flow | Rima é a combinação dos sons das palavras; flow é o jeito de encaixar a fala no ritmo. | Cada MC tem seu flow.
+D: Por que o rap é chamado de "crônica da periferia"? | Denúncia do racismo e da violência ; Orgulho e identidade ; Sobrevivendo no Inferno virou leitura de vestibular
+A: Batalha de rimas respeitosa | batida no celular | Escolha um tema positivo: escola, bairro, sonhos ; Escreva oito versos com rima ; Ensaie no ritmo ; Apresente para a turma
+R: Rap, DJ, breaking e grafite ; Nova York anos 1970 ; Racionais, Emicida, Criolo ; Voz da periferia | O rap aparece em provas como gênero poético e crítico; Racionais virou leitura de vestibular.
+
+# funk-brasileiro | Funk brasileiro | Do baile ao mundo | Música | Música brasileira | pop | 
+C: Funk carioca | Gênero musical nascido nos bailes das favelas do Rio nos anos 1980, com batida eletrônica do Miami bass. | Hoje tem muitas variações pelo país.
+L: Linha do tempo | Anos 1970: bailes black no Rio ; Anos 1980: chega o Miami bass ; Anos 1990: funk em português e Rap da Felicidade ; Hoje: funk em todo o Brasil e no exterior
+T: Debates | Preconceito contra a música da favela ; Letras com violência ou sexualidade ; Leis que tentaram proibir os bailes ; Funk como cultura e trabalho para muitos jovens
+C: Batidão | Base rítmica eletrônica do funk, feita por DJs e produtores. | O tamborzão misturou o Miami bass com batidas de origem afro-brasileira.
+D: Por que o funk sofre a mesma perseguição que o samba sofreu? | Racismo e classe social ; Quem decide o que é "música de qualidade"? ; O funk é arte?
+A: Funk de conhecimento | batida no celular | Escolha um conteúdo de outra matéria ; Escreva um refrão educativo ; Ensaie no ritmo do funk ; Apresente e explique o conteúdo
+R: Bailes das favelas ; Miami bass e tamborzão ; Preconceito e debate ; Cultura juvenil | O funk aparece em questões sobre preconceito cultural e música das periferias.
+
+# musica-indigena-e-afro | Música indígena e africana no Brasil | Raízes do som brasileiro | Música | Música brasileira | raiz | Bumba meu boi - Maranhão, Brasil.jpg
+T: Música indígena | Ligada a rituais, curas e festas ; Maracás, flautas e tambores ; Cantos em línguas indígenas ; Artistas atuais como Djuena Tikuna e Brô MC's
+T: Heranças africanas | Tambores e atabaques ; Berimbau, agogô e afoxé ; Cantos de pergunta e resposta ; Base do samba, maracatu, jongo e axé
+C: Jongo | Dança e canto de origem banta, com tambores e versos enigmáticos, praticado no Sudeste. | Patrimônio Cultural do Brasil desde 2005.
+O: Bumba meu boi | Grupos populares do Maranhão ; tradição de mais de 200 anos ; música, dança e teatro ; São Luís | Matracas e pandeirões ; Mistura de heranças indígenas, africanas e europeias ; Festa de toda a comunidade
+D: Por que conhecemos pouco a música indígena? | Línguas e rituais ; Rádio e mercado ; Onde ouvir artistas indígenas hoje?
+A: Instrumento ancestral | garrafa, sementes, cabo de madeira | Construa um maracá com sementes ; Crie um ritmo coletivo ; Pesquise um canto indígena ou africano ; Apresente com respeito ao significado
+R: Música e ritual indígena ; Tambores e heranças africanas ; Jongo, samba, maracatu ; Bumba meu boi | O Enem valoriza as matrizes indígena e africana da cultura brasileira.
+
+# musica-e-tecnologia | Música e tecnologia | Do disco ao streaming | Música | Linguagem musical | pop | Family group listening to radio? LCCN2016894380.jpg
+L: Como ouvimos música | 1877: fonógrafo de Edison ; Anos 1920: rádio entra nas casas ; 1979: walkman leva a música para a rua ; 2008 em diante: streaming
+O: Família ouvindo rádio | Harris & Ewing ; c. 1920-1930 ; fotografia ; Biblioteca do Congresso, EUA | A família reunida em volta do aparelho ; O rádio como centro da casa ; Escutar junto
+T: Produção musical hoje | Gravação em casa com computador ; Beats e samples ; Autotune e efeitos ; Distribuição direta na internet
+X: Antes e agora | Antes: Discos e fitas ; Gravadoras decidiam ; Ouvir o álbum inteiro | Agora: Streaming e playlists ; Algoritmos sugerem ; Músicas mais curtas
+D: O algoritmo escolhe o que você ouve? | Você descobre músicas novas? ; Bolha musical ; Artistas ganham pouco no streaming?
+A: Playlist com história | celular ou papel | Monte uma playlist de cinco músicas sobre um tema ; Escreva por que cada uma entrou ; Inclua uma música de outra geração ; Troque com um colega
+R: Fonógrafo, rádio, walkman, streaming ; Produção caseira ; Algoritmos ; Novas formas de escutar | Questões abordam a influência da tecnologia na produção e no consumo de música.
+
+# trilha-sonora | Trilha sonora | A música que conta histórias | Música | Linguagem musical | cena | 1930-1940s Cinema, Union Street - geograph.org.uk - 359262.jpg
+C: Trilha sonora | Conjunto de músicas, ruídos e silêncios de um filme, série, jogo ou peça. | Sem música, uma cena de suspense perde metade da força.
+T: Funções | Criar clima e emoção ; Marcar personagens (tema musical) ; Ligar cenas ; Indicar época e lugar
+C: Leitmotiv | Tema musical ligado a um personagem ou ideia, que volta sempre que ele aparece. | Duas notas graves anunciam o tubarão num filme famoso.
+X: Trilha original e adaptada | Original: Composta para a obra ; Exclusiva | Adaptada: Usa músicas já existentes ; Traz memórias do público
+T: Sonoplastia | Criação de sons e efeitos para filmes, rádio e teatro ; Passos, portas e chuva feitos em estúdio ; Profissional chamado de foley ; O som "invisível" que dá realidade
+D: Uma cena muda de sentido com outra música? | Teste uma cena triste com música alegre ; Games também têm trilhas famosas ; Qual trilha marcou você?
+A: Sonorizar uma cena | vídeo curto sem som ; objetos ; celular | Escolha uma cena de 30 segundos ; Crie sons e ruídos com objetos ; Grave por cima do vídeo ; Exiba duas versões com climas diferentes
+R: Música, ruído e silêncio ; Clima e emoção ; Leitmotiv ; Sonoplastia | A trilha sonora aparece em questões sobre linguagem audiovisual.
+
+# canto-e-voz | Canto e voz | O instrumento que todos têm | Música | Linguagem musical | som | 
+C: Voz | Som produzido pela vibração das pregas vocais, modificado pela boca, nariz e garganta. | Cada voz é única, como uma impressão digital.
+T: Classificação das vozes | Soprano: voz feminina mais aguda ; Contralto: voz feminina grave ; Tenor: voz masculina aguda ; Baixo: voz masculina grave
+T: Cuidados com a voz | Beber água ; Não gritar ; Aquecer antes de cantar ; Descansar a voz
+T: Formas de cantar | Coral, a várias vozes ; Canto lírico, na ópera ; Canto popular ; Beatbox e percussão vocal
+D: Por que gostamos de cantar juntos? | Torcidas, festas e corais ; Cantar faz bem? ; Você canta sozinho ou com outros?
+A: Coral em cânone | a voz da turma | Escolha uma melodia simples, como "Frère Jacques" ; Um grupo começa a cantar ; Outro entra depois de uma frase ; Experimente três grupos
+R: Pregas vocais ; Soprano, contralto, tenor, baixo ; Cuidados com a voz ; Coral e beatbox | A voz aparece em questões sobre canto coral e produção do som.
+
+# opera-e-musical | Ópera e teatro musical | Música que vira espetáculo | Música | História da música | cena | PianOrquestra no Theatro Municipal do Rio de Janeiro, 2010.jpg
+C: Ópera | Espetáculo em que a história é contada pelo canto, com orquestra, cenários e figurinos. | Surgiu na Itália por volta de 1600.
+X: Ópera e musical | Ópera: Canto lírico ; Orquestra sinfônica ; Quase tudo cantado | Musical: Canto popular e dança ; Bandas e orquestras ; Falas e canções
+T: Óperas famosas | A Flauta Mágica, de Mozart ; La Traviata, de Verdi ; Carmen, de Bizet ; O Guarani, de Carlos Gomes
+T: Teatro musical no Brasil | Teatro de revista no início do século XX ; Musicais de Chico Buarque, como Ópera do Malandro ; Grandes produções em São Paulo hoje ; Musicais sobre artistas brasileiros
+D: Por que a ópera parece distante e os musicais fazem sucesso? | Língua estrangeira ; Preço e lugar ; Como aproximar o público?
+A: Mini musical | um conto conhecido ; músicas | Escolha uma história curta ; Divida em três cenas ; Troque falas por trechos cantados ; Apresente para a turma
+R: Ópera italiana ; Canto lírico e orquestra ; Musical e dança ; Carlos Gomes e Chico Buarque | A ópera e o musical aparecem em questões sobre artes integradas.
+
+# maracatu-e-frevo | Maracatu e frevo | Os ritmos de Pernambuco | Música | Música brasileira | brasil | Samba Parade - Rio's Carnival 2008.jpg
+C: Frevo | Música e dança do carnaval de Pernambuco, rápida e frenética, com sombrinhas coloridas. | Patrimônio Imaterial da Humanidade pela UNESCO desde 2012.
+C: Maracatu | Manifestação afro-brasileira de Pernambuco com cortejo real, tambores (alfaias) e loas. | Maracatu de Baque Virado e Maracatu Rural.
+X: Dois maracatus | Baque Virado (Nação): Origem afro ; Cortejo com rei e rainha ; Tambores alfaias | Rural (Baque Solto): Zona da Mata ; Caboclos de lança ; Fusão de culturas
+T: Mangue Beat | Movimento dos anos 1990 no Recife ; Chico Science & Nação Zumbi ; Maracatu com rock e hip-hop ; Manifesto Caranguejos com Cérebro
+D: Por que Pernambuco tem tanta diversidade musical? | Heranças africanas, indígenas e europeias ; Carnaval de rua ; Que ritmo sua região tem?
+A: Batucada de maracatu | baldes, latas e baquetas | Aprenda o toque básico das alfaias ; Divida em grupos com ritmos diferentes ; Crie uma loa curta ; Faça um cortejo pela sala
+R: Frevo e sombrinhas ; Maracatu de Baque Virado e Rural ; Mangue Beat ; Patrimônio da UNESCO | Frevo e maracatu aparecem como patrimônio cultural pernambucano.
+
+# musica-e-identidade | Música e identidade | Diga o que ouves e direi quem és | Música | Linguagem musical | pop | Samba Parade - Rio's Carnival 2008.jpg
+T: A música marca grupos | Torcidas de futebol ; Tribos urbanas, como punks e rappers ; Religiões e cultos ; Gerações e épocas
+C: Identidade cultural | Sentimento de pertencer a um grupo, construído por práticas como a música, a língua e as festas. | O sertanejo e o funk falam a diferentes grupos.
+T: Gêneros e regiões | Sertanejo e moda de viola no Centro-Oeste ; Carimbó no Pará ; Arrocha na Bahia ; Vanerão no Sul
+X: Gosto e preconceito | Gosto: Escolha pessoal ; Pode mudar | Preconceito musical: Despreza estilos de outros grupos ; Muitas vezes ligado a classe e raça
+D: Você já sentiu vergonha de gostar de alguma música? | Por quê? ; O que define "música boa"? ; Como respeitar o gosto do outro?
+A: Mapa musical da turma | mapa do Brasil ; post-its | Cada aluno escolhe uma música que representa sua família ; Marca no mapa a origem do gênero ; Explica a escolha ; Monta-se uma playlist da turma
+R: Música e pertencimento ; Gêneros regionais ; Identidade cultural ; Respeito à diversidade | O tema aparece em questões sobre diversidade cultural e preconceito.

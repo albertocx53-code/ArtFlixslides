@@ -1,0 +1,196 @@
+# pop-art | Pop Art | A cultura de massa no museu | História da Arte | Arte Contemporânea | pop | 
+C: Pop Art | Movimento dos anos 1950 e 1960, na Inglaterra e nos Estados Unidos, que usou imagens da publicidade, dos quadrinhos e das celebridades. | Pop vem de popular.
+T: Características | Cores fortes e chapadas ; Repetição de imagens ; Produtos, marcas e famosos ; Técnicas da indústria, como a serigrafia
+B: Andy Warhol | 1928 – 1987 | Começou como ilustrador de publicidade ; Pintou latas de sopa e garrafas de refrigerante ; Fez retratos de celebridades em série ; Chamava o ateliê de The Factory, a fábrica
+C: Serigrafia | Técnica de impressão em que a tinta passa por uma tela vazada, permitindo repetir imagens. | A mesma técnica das estampas de camiseta.
+T: Roy Lichtenstein | Pintava quadrinhos ampliados ; Imitava os pontinhos da impressão (Ben-Day) ; Balões com frases dramáticas ; Transformou o banal em monumento
+Q: No futuro, todos serão mundialmente famosos por 15 minutos. | Andy Warhol | Catálogo de exposição, 1968
+D: Warhol previu as redes sociais? | Fama instantânea ; Imagens repetidas até perder o sentido ; Somos todos produtos?
+A: Retrato pop em série | foto impressa em preto e branco ; papel vegetal ; canetinhas | Copie o contorno de um rosto quatro vezes ; Pinte cada um com cores diferentes e fortes ; Monte em grade de 2x2 ; Assine como "fábrica" da turma
+R: Cultura de massa e consumo ; Warhol e Lichtenstein ; Repetição e serigrafia ; Cores chapadas | A Pop Art é cobrada pela relação entre arte, consumo e mídia.
+
+# op-art | Op Art | Ilusões que enganam os olhos | História da Arte | Arte Contemporânea | abstrato | 
+C: Op Art | Arte óptica dos anos 1960 que usa padrões geométricos para criar ilusões de movimento e vibração. | A imagem parada parece se mexer.
+T: Recursos | Linhas paralelas que se curvam ; Contraste máximo de preto e branco ; Padrões repetidos com pequenas mudanças ; Cores complementares lado a lado
+T: Artistas | Victor Vasarely, pai da Op Art ; Bridget Riley e suas ondas ; Carlos Cruz-Diez e a cor em movimento ; Abraham Palatnik, pioneiro no Brasil
+X: Op Art e arte cinética | Op Art: Ilusão de movimento ; A obra está parada ; O olho cria o movimento | Arte cinética: Movimento real ; Motores ou vento ; Palatnik e Calder
+D: Por que nosso cérebro é enganado? | O olho completa as imagens ; Ilusões de ótica nas redes ; Arte pode estudar a percepção?
+A: Ilusão de ondas | papel ; régua ; caneta preta | Trace linhas verticais a cada 1 cm ; Desenhe uma curva leve no meio ; Pinte faixas alternadas de preto e branco, mudando na curva ; Observe o efeito de movimento
+R: Ilusão de movimento ; Padrões geométricos ; Vasarely, Riley, Cruz-Diez ; Palatnik no Brasil | A Op Art aparece em questões sobre percepção visual.
+
+# arte-conceitual | Arte conceitual | Quando a ideia é a obra | História da Arte | Arte Contemporânea | atelie | 'Fountain' by Marcel Duchamp (replica).JPG
+C: Arte conceitual | Arte em que a ideia vale mais que o objeto; a obra pode ser um texto, uma instrução ou uma ação. | Uma frase escrita na parede pode ser a obra.
+T: Características | A ideia antes da forma ; Uso de textos, fotos e documentos ; Crítica às instituições e ao mercado ; O público precisa pensar, não só olhar
+T: Exemplos | Joseph Kosuth: Uma e Três Cadeiras (cadeira, foto e definição) ; Yoko Ono: obras como instruções ; Cildo Meireles: Inserções em Circuitos Ideológicos ; Duchamp como precursor
+O: Inserções em Circuitos Ideológicos | Cildo Meireles ; 1970 ; garrafas de refrigerante e cédulas carimbadas ; circularam pelo Brasil | Mensagens gravadas em garrafas retornáveis ; Críticas à ditadura escondidas no dia a dia ; A obra circula, não fica no museu
+D: Uma ideia pode ser vendida como obra de arte? | Quem é dono de uma ideia? ; Arte precisa ser vista ou entendida? ; Um tweet pode ser arte conceitual?
+A: Obra-instrução | papel ; caneta | Escreva uma instrução poética, como "conte as nuvens de hoje" ; Troque com um colega ; Cumpra a instrução recebida ; Registre o resultado com texto ou foto
+R: A ideia é a obra ; Texto, foto e documento ; Kosuth, Yoko Ono, Cildo ; Crítica às instituições | A arte conceitual aparece ligada a Duchamp e à arte brasileira dos anos 1970.
+
+# performance | Performance | O corpo do artista como obra | História da Arte | Arte Contemporânea | cena | 
+C: Performance | Ação realizada ao vivo pelo artista, com o corpo, num tempo e lugar definidos, muitas vezes com o público. | Pode durar minutos ou meses.
+T: Características | O corpo como material ; Presença ao vivo ; Não pode ser repetida igual ; Registros em foto e vídeo
+T: Artistas | Marina Abramović: A Artista Está Presente ; Yoko Ono: Cut Piece ; Flávio de Carvalho e o terno de saia em 1956 ; Berna Reale e a violência urbana
+B: Flávio de Carvalho | 1899 – 1973 | Arquiteto, pintor e performer brasileiro ; Em 1931, andou na contramão de uma procissão ; Em 1956, desfilou pelo centro de São Paulo de saia e blusa ; Questionou as regras sociais
+X: Teatro e performance | Teatro: Personagem ; Ficção e ensaio ; Pode se repetir | Performance: O próprio artista ; Ação real ; Única
+D: Se ninguém registrar, a performance existiu? | O que fica: memória ou vídeo? ; Uma manifestação pode ser performance? ; Vídeos virais são performance?
+A: Performance silenciosa | um objeto simbólico ; espaço da escola | Planeje uma ação de dois minutos sem palavras ; Escolha um tema, como espera ou cuidado ; Apresente no pátio ; Peça ao público que descreva o que sentiu
+R: Ação ao vivo ; Corpo como obra ; Abramović e Flávio de Carvalho ; Registro e memória | A performance é cobrada em questões sobre corpo e arte contemporânea.
+
+# land-art-e-arte-e-natureza | Land art e arte na natureza | A paisagem como obra | História da Arte | Arte Contemporânea | raiz | NASA-Apollo8-Dec24-Earthrise.jpg
+C: Land art | Arte feita diretamente na paisagem, com terra, pedras, água e plantas, muitas vezes em grande escala. | Surgiu nos anos 1960 nos Estados Unidos.
+T: Exemplos | Robert Smithson: Spiral Jetty, uma espiral de pedras num lago ; Andy Goldsworthy: obras com folhas, gelo e galhos ; Christo e Jeanne-Claude: embrulharam prédios e ilhas ; Frans Krajcberg: esculturas com madeira queimada da Amazônia
+B: Frans Krajcberg | 1921 – 2017 | Nasceu na Polônia e se naturalizou brasileiro ; Viveu na Bahia, numa casa no alto de uma árvore ; Usou troncos queimados de queimadas ; Fez da arte um grito pela floresta
+X: Arte no museu e arte na natureza | Museu: Obra protegida ; Dura muito tempo ; Visitada | Natureza: Exposta ao tempo ; Muda e desaparece ; Registrada em foto
+D: A arte pode ajudar a proteger o meio ambiente? | Arte com lixo conscientiza? ; Obras que desaparecem fazem sentido? ; Que obra você faria para a sua cidade?
+A: Arte efêmera no pátio | folhas ; galhos ; pedras ; celular | Recolha materiais naturais caídos ; Crie uma forma no chão: espiral, círculo, caminho ; Fotografe ; Volte no dia seguinte e fotografe de novo
+R: Arte na paisagem ; Smithson, Goldsworthy, Christo ; Krajcberg e a Amazônia ; Arte efêmera | Questões relacionam land art, sustentabilidade e meio ambiente.
+
+# hiper-realismo | Hiper-realismo | Mais real que a foto | História da Arte | Arte Contemporânea | galeria | 
+C: Hiper-realismo | Estilo que reproduz a realidade com tanto detalhe que pinturas e esculturas parecem fotografias. | Surgiu nos Estados Unidos no fim dos anos 1960.
+T: Características | Detalhes minuciosos ; Temas do cotidiano: carros, vitrines, pessoas ; Uso da fotografia como base ; Escala às vezes gigante
+T: Artistas | Chuck Close e os retratos enormes ; Richard Estes e as vitrines ; Ron Mueck e as esculturas de pessoas ; Duane Hanson e turistas de resina
+X: Realismo e hiper-realismo | Realismo (séc. XIX): Mostra a vida comum ; Crítica social ; Pinceladas visíveis | Hiper-realismo: Imita a fotografia ; Precisão extrema ; Pincelada invisível
+D: Se a câmera faz igual, por que pintar? | O tempo de trabalho importa? ; O que a pintura mostra que a foto não mostra? ; É técnica ou arte?
+A: Detalhe ampliado | foto de um objeto ; papel quadriculado ; lápis | Escolha um pequeno detalhe da foto ; Divida foto e papel em quadradinhos ; Copie quadradinho por quadradinho, ampliando ; Compare com o original
+R: Imita a fotografia ; Precisão extrema ; Close, Estes, Mueck ; Diálogo com o realismo | O hiper-realismo aparece ligado à relação entre pintura e fotografia.
+
+# videoarte-e-arte-e-tecnologia | Videoarte e arte e tecnologia | Telas, luzes e códigos | História da Arte | Arte Contemporânea | pop | BalticServers data center.jpg
+C: Videoarte | Arte que usa o vídeo como linguagem, em telas, projeções ou instalações. | Surgiu nos anos 1960, quando as câmeras portáteis ficaram acessíveis.
+T: Pioneiros | Nam June Paik e as torres de televisores ; Bill Viola e o tempo lento ; Anna Bella Geiger e Letícia Parente no Brasil ; Hoje, projeções em prédios inteiros
+O: Marca Registrada | Letícia Parente ; 1975 ; vídeo ; acervos de arte brasileira | A artista borda "Made in Brasil" na sola do próprio pé ; O corpo como produto ; Crítica à ditadura e ao consumo
+T: Arte e tecnologia hoje | Realidade virtual e aumentada ; Arte interativa que responde ao público ; Mapeamento de projeção (video mapping) ; Robôs e inteligência artificial
+D: Arte tecnológica envelhece rápido? | E quando a máquina para de funcionar? ; Museus guardam televisores antigos ; Qual tecnologia de hoje vai virar arte?
+A: Vídeo de um minuto | celular | Escolha um gesto simples e repetido ; Filme em plano fixo, sem cortes ; Desacelere ou inverta o vídeo ; Exiba e discuta o que muda
+R: Vídeo como linguagem ; Nam June Paik ; Letícia Parente no Brasil ; Interatividade e tecnologia | A videoarte aparece em questões sobre linguagens contemporâneas.
+
+# bienais-e-sistema-da-arte | Bienais e o sistema da arte | Quem faz a arte circular | História da Arte | Arte Contemporânea | galeria | Museu da República 1 edit.jpg
+C: Bienal | Grande exposição que acontece a cada dois anos, reunindo artistas de vários países. | A Bienal de São Paulo existe desde 1951.
+T: O sistema da arte | Artistas produzem ; Galerias vendem ; Museus guardam e exibem ; Críticos e curadores dão valor e sentido
+L: Bienal de São Paulo | 1951: primeira edição, no Trianon ; 1953: Guernica, de Picasso, é exposta ; 1957: passa a ocupar o pavilhão de Niemeyer no Ibirapuera ; 2008: a "bienal do vazio", com um andar sem obras
+X: Galeria e museu | Galeria: Vende obras ; Representa artistas ; Comércio | Museu: Não vende ; Guarda coleções ; Educação e pesquisa
+D: Por que uma obra custa milhões? | Raridade, fama ou investimento? ; Quem decide o preço? ; Artistas jovens conseguem viver de arte?
+A: Mini bienal da escola | trabalhos dos alunos ; etiquetas ; mapa | Escolham um tema para a mostra ; Cada turma seleciona obras ; Criem um mapa e textos de parede ; Convidem famílias para a visita
+R: Bienais e exposições ; Galerias, museus e críticos ; Bienal de São Paulo desde 1951 ; Valor e mercado | A Bienal de São Paulo aparece em questões sobre acesso e circulação da arte.
+
+# arte-e-ativismo | Arte e ativismo | Imagens que lutam | História da Arte | Arte Contemporânea | pop | 
+C: Artivismo | Junção de arte e ativismo: práticas artísticas usadas para defender causas sociais e políticas. | Cartazes, intervenções urbanas, performances e grafites.
+T: Exemplos | Guerrilla Girls: denunciam a ausência de mulheres nos museus ; Cartazes das lutas pelos direitos civis nos EUA ; Arte contra a ditadura no Brasil ; Intervenções sobre o clima e a Amazônia
+O: Marcha sobre Washington | Rowland Scherman ; 1963 ; fotografia ; Arquivo Nacional dos EUA | Martin Luther King no meio da multidão ; Cartazes com palavras de ordem ; A imagem como força política
+X: Riscos e forças | Forças: Chama atenção ; Mobiliza pessoas ; Cria símbolos | Riscos: Pode virar só estética ; Censura e perseguição ; Simplificar demais a causa
+D: Toda arte é política? | Mesmo a que não fala de política? ; Uma paisagem pode ser política? ; Qual causa merece uma obra sua?
+A: Cartaz de causa | cartolina ; canetões ; colagens | Escolha uma causa da escola ou do bairro ; Crie uma frase curta e forte ; Desenhe um símbolo simples ; Exponha e explique a escolha
+R: Arte como ação política ; Guerrilla Girls ; Direitos civis e ditadura ; Força e riscos | O artivismo aparece em questões sobre cidadania e linguagem visual.
+
+# mulheres-na-arte | Mulheres na arte | As artistas que a história esqueceu | Artes Visuais | Arte e sociedade | expressao | Self-portrait as the Allegory of Painting (La Pittura) - Artemisia Gentileschi.jpg
+T: Por que tão poucas? | Mulheres eram proibidas de estudar em academias ; Não podiam desenhar modelos nus ; Muitas obras foram atribuídas a homens ; A história da arte foi escrita por homens
+T: Artistas que mudaram a história | Artemisia Gentileschi, mestre do Barroco ; Berthe Morisot, impressionista ; Frida Kahlo, Tarsila do Amaral, Anita Malfatti ; Lygia Clark, Lygia Pape e Djanira
+B: Artemisia Gentileschi | 1593 – c. 1656 | Pintora italiana do Barroco ; Primeira mulher na Academia de Desenho de Florença ; Pintou heroínas bíblicas fortes ; Ficou séculos esquecida
+Q: As mulheres precisam estar nuas para entrar no Metropolitan Museum? | Guerrilla Girls | cartaz, 1989
+G: A mulher que pinta e a mulher pintada | Self-portrait as the Allegory of Painting (La Pittura) - Artemisia Gentileschi.jpg :: Artemisia Gentileschi, Autorretrato como alegoria da Pintura, c. 1638 ; Almeida Júnior - Moça com Livro.jpg :: Almeida Júnior, Moça com livro: a mulher retratada por um pintor
+D: Quantas artistas mulheres você conhece? | E quantos artistas homens? ; Os livros didáticos mudaram? ; Quem são as artistas da sua família?
+A: Galeria das esquecidas | internet ou livros ; papel ; lápis | Cada aluno pesquisa uma artista mulher pouco conhecida ; Faz um retrato dela ; Escreve uma ficha com obra e história ; Monta-se a galeria na sala
+R: Exclusão histórica ; Artemisia, Morisot, Frida, Tarsila ; Guerrilla Girls ; Revisão da história da arte | O tema aparece em questões sobre representatividade e direitos das mulheres.
+
+# arte-indigena-brasileira | Arte indígena brasileira | Mais de mil anos de criação | Arte Brasileira | Raízes | raiz | Índia Pataxo fazendo Pintura Corporal.jpg
+C: Arte indígena | Produção artística dos povos originários, ligada à vida, aos rituais, à natureza e à identidade de cada povo. | Existem mais de 300 povos indígenas no Brasil, com artes diferentes.
+T: Linguagens | Pintura corporal com jenipapo e urucum ; Plumária: arte com penas ; Cerâmica e cestaria ; Grafismos e tecelagem
+O: Pintura corporal Pataxó | Povo Pataxó, Bahia ; tradição viva ; jenipapo e urucum sobre a pele ; aldeias do sul da Bahia | Padrões geométricos com significado ; Feita por mulheres e entre gerações ; Arte que marca identidade e festa
+P: Pigmentos naturais | #1E1A1A Jenipapo (preto-azulado) ; #C8402A Urucum (vermelho) ; #F2E6CF Tabatinga (branco) ; #8A5A2B Terra ; #3B6B3A Folhas | Cores tiradas de frutos, sementes, argilas e plantas.
+T: Arte indígena contemporânea | Jaider Esbell, artista macuxi ; Denilson Baniwa e suas intervenções ; Daiara Tukano e o grafite ; MAHKU, coletivo de pintores huni kuin
+D: Por que falamos "arte indígena" no singular? | Cada povo tem sua arte ; Arte indígena é só do passado? ; Onde estão os artistas indígenas nos museus?
+A: Padrão com significado | papel ; canetas pretas e vermelhas | Pesquise um grafismo de um povo indígena e seu significado ; Crie um padrão seu que represente sua família ; Explique os símbolos escolhidos ; Respeite: não copie como "fantasia"
+R: Mais de 300 povos, muitas artes ; Pintura corporal, plumária, cerâmica ; Pigmentos naturais ; Artistas indígenas contemporâneos | A Lei 11.645 tornou obrigatório o ensino de cultura indígena, tema frequente em provas.
+
+# ceramica-marajoara | Cerâmica marajoara | A arte da Ilha de Marajó | Arte Brasileira | Raízes | raiz | Pintura Indígena do povo Kurâ-Bakairi de Mato Grosso.jpg
+C: Cerâmica marajoara | Cerâmica produzida pelos povos que viveram na Ilha de Marajó, no Pará, entre cerca de 400 e 1400. | Uma das mais sofisticadas das Américas.
+T: Características | Grafismos geométricos e labirínticos ; Cores vermelha, branca e preta ; Urnas funerárias com rostos ; Peças excisas e pintadas
+T: Tipos de peças | Urnas funerárias ; Vasos e pratos ; Tangas de cerâmica, usadas por mulheres ; Estatuetas
+O: Padrões marajoaras | Povos de Marajó ; c. 400 a 1400 ; cerâmica pintada e excisa ; Museu Paraense Emílio Goeldi e outros | Linhas que se dobram em labirintos ; Rostos estilizados ; Simetria e repetição
+D: Por que a cerâmica marajoara inspira designers até hoje? | Azulejos, estampas e joias ; Inspiração ou apropriação? ; Quem lucra com esses padrões?
+A: Prato marajoara | prato de papel ; tinta vermelha, preta e branca | Pinte o fundo de bege ; Crie um labirinto geométrico simétrico ; Use só três cores ; Exponha os pratos como num museu
+R: Ilha de Marajó, Pará ; Cerca de 400 a 1400 ; Grafismos geométricos ; Urnas funerárias | A cerâmica marajoara é cobrada como patrimônio pré-colonial brasileiro.
+
+# arte-africana | Arte africana | Máscaras, esculturas e reinos | Arte Brasileira | Raízes | raiz | Samanhonga (Pensador Africano).jpg
+T: Muitas Áfricas | O continente tem 54 países e milhares de culturas ; Arte de Benin, Ifé, Congo, Mali e muitos outros ; Bronzes, máscaras, tecidos e arquitetura ; Arte ligada a ritual, poder e comunidade
+O: Samanhonga (Pensador Africano) | Povo Chokwe, Angola ; tradição centenária ; escultura em madeira ; coleções de arte africana | A figura com as mãos na cabeça ; Postura de reflexão ; Formas simplificadas e expressivas
+T: Obras famosas | Bronzes do Reino de Benin, na Nigéria ; Cabeças de Ifé, de grande realismo ; Máscaras dos povos Dan, Fang e Iorubá ; Grande Mesquita de Djenné, no Mali, feita de barro
+C: Máscara africana | Objeto ritual que representa espíritos, ancestrais ou forças da natureza, usado em danças e cerimônias. | A máscara não é só para ver: ela ganha vida no movimento.
+D: Por que tantas obras africanas estão em museus europeus? | Saques coloniais ; Debate sobre devolução ; O Benin já recebeu peças de volta
+A: Máscara de papel | papelão ; tinta ; sementes, palha, barbante | Pesquise o significado de uma máscara africana ; Crie a sua com formas geométricas simples ; Use materiais naturais ; Escreva qual força ela representa
+R: Diversidade de culturas ; Bronzes de Benin e Ifé ; Máscaras e rituais ; Influência no Cubismo | A arte africana é cobrada pela influência nas vanguardas e pela Lei 10.639.
+
+# arte-afro-brasileira | Arte afro-brasileira | Memória, fé e resistência | Arte Brasileira | Raízes | raiz | Artur Timóteo da Costa - Estudo de Cabeças.jpg
+C: Arte afro-brasileira | Produção artística de pessoas negras no Brasil e de matriz africana, ligada à memória, à religiosidade e à resistência. | Abrange do Barroco colonial à arte contemporânea.
+T: Artistas no tempo | Mestre Valentim e Aleijadinho no período colonial ; Arthur Timótheo da Costa no início do século XX ; Heitor dos Prazeres e Rubem Valentim ; Rosana Paulino e Sonia Gomes hoje
+O: Estudo de Cabeças | Arthur Timótheo da Costa ; início do séc. XX ; óleo sobre tela ; coleções brasileiras | Rostos com dignidade e expressão ; Pincelada solta e moderna ; Um artista negro na Academia
+B: Rubem Valentim | 1922 – 1991 | Nasceu em Salvador ; Criou emblemas geométricos inspirados nos símbolos dos orixás ; Uniu arte construtiva e matriz africana ; Expôs na Bienal de São Paulo e em vários países
+T: Museus | Museu Afro Brasil, em São Paulo, criado por Emanoel Araújo ; Muncab, em Salvador ; Museu Nacional da Cultura Afro-Brasileira ; Coleções em instituições de todo o país
+D: Por que a arte negra demorou a entrar nos museus? | Racismo estrutural ; Quem escrevia a história da arte? ; O que mudou recentemente?
+A: Emblema pessoal | papel ; régua ; compasso ; tinta | Pesquise os emblemas de Rubem Valentim ; Crie um emblema geométrico que represente sua história ; Use poucas cores e simetria ; Explique os símbolos
+R: Memória e resistência ; Do Barroco ao contemporâneo ; Arthur Timótheo e Rubem Valentim ; Museu Afro Brasil | A arte afro-brasileira é tema da Lei 10.639 e aparece com frequência no Enem.
+
+# missao-artistica-francesa | Missão Artística Francesa | O Brasil visto pela Academia | Arte Brasileira | Colônia e Império | galeria | A Brazilian family in Rio de Janeiro by Jean-Baptiste Debret 1839.jpg
+C: Missão Artística Francesa | Grupo de artistas franceses que chegou ao Rio de Janeiro em 1816 e ajudou a criar o ensino oficial de arte no Brasil. | Origem da Academia Imperial de Belas Artes.
+T: Integrantes | Jean-Baptiste Debret, pintor ; Nicolas-Antoine Taunay, paisagista ; Grandjean de Montigny, arquiteto ; Auguste Taunay, escultor
+O: Uma família brasileira no Rio de Janeiro | Jean-Baptiste Debret ; publicado em 1834 a 1839 ; litografia aquarelada ; Viagem Pitoresca e Histórica ao Brasil | A organização da família e dos criados ; Roupas e objetos da época ; Pessoas escravizadas no cotidiano doméstico
+B: Jean-Baptiste Debret | 1768 – 1848 | Pintor francês, parente de David ; Viveu 15 anos no Brasil ; Registrou o cotidiano, os indígenas e a escravidão ; Publicou a Viagem Pitoresca e Histórica ao Brasil
+D: As imagens de Debret mostram a verdade da época? | Um olhar europeu sobre o Brasil ; O que ele escolheu mostrar? ; Quem não teve voz nessas imagens?
+A: Cena do cotidiano | papel ; lápis ; aquarela | Observe uma cena real: feira, ponto de ônibus, fila ; Desenhe como um "viajante" ; Escreva uma legenda descritiva ; Discuta o que você deixou de fora
+R: Chegada em 1816 ; Academia Imperial de Belas Artes ; Debret e o cotidiano ; Olhar europeu | As imagens de Debret são muito usadas em questões sobre escravidão no Brasil.
+
+# barroco-mineiro | Barroco mineiro | Ouro, fé e arte em Minas Gerais | Arte Brasileira | Colônia e Império | barroco | Ouro Preto MG Brasil - Casario colonial - panoramio.jpg
+C: Barroco mineiro | Arte produzida em Minas Gerais no século XVIII, durante o ciclo do ouro, com igrejas, esculturas e pinturas originais. | Ouro Preto, Mariana, Congonhas, São João del-Rei e Sabará.
+T: Características | Igrejas com fachadas curvas e torres arredondadas ; Pedra-sabão e madeira entalhada ; Interiores dourados ; Artistas brasileiros, muitos negros e mestiços
+T: Grandes nomes | Aleijadinho, escultor e arquiteto ; Mestre Ataíde, pintor de tetos ; Irmandades religiosas como encomendantes ; Artesãos anônimos
+O: Casario de Ouro Preto | Construtores coloniais ; século XVIII ; taipa, pedra e telhas ; Ouro Preto, Patrimônio Mundial | Ruas de pedra e ladeiras ; Casas coloridas lado a lado ; Igrejas no alto dos morros
+D: Quem pagou pelas igrejas douradas? | O ouro extraído por pessoas escravizadas ; As irmandades de negros e brancos ; Arte e exploração juntas
+A: Fachada barroca | papel ; lápis ; dourado | Desenhe a fachada de uma igreja com curvas ; Acrescente volutas e um frontão ; Decore com dourado ; Compare com a fachada de um prédio moderno
+R: Minas no século XVIII ; Ciclo do ouro ; Aleijadinho e Ataíde ; Ouro Preto patrimônio | O Barroco mineiro é dos temas de arte mais cobrados no Enem.
+
+# aleijadinho | Aleijadinho | O gênio do Barroco brasileiro | Arte Brasileira | Colônia e Império | barroco | Profeta Daniel - Congonhas do Campo.jpg
+B: Antônio Francisco Lisboa, o Aleijadinho | 1738 – 1814 | Nasceu em Vila Rica, atual Ouro Preto ; Filho de um arquiteto português e de uma mulher escravizada ; Uma doença deformou suas mãos e pés ; Trabalhou com ferramentas presas às mãos
+O: Profeta Daniel | Aleijadinho ; 1800 a 1805 ; pedra-sabão ; Santuário de Bom Jesus de Matosinhos, Congonhas | O leão aos pés do profeta ; Dobras da roupa em movimento ; Olhar intenso e expressivo
+T: Obras principais | Os 12 profetas de Congonhas ; Os Passos da Paixão, em madeira ; Igreja de São Francisco de Assis, em Ouro Preto ; Púlpitos e portadas entalhados
+C: Pedra-sabão | Rocha macia, fácil de esculpir, muito usada em Minas Gerais. | Por ser macia, permitiu detalhes delicados nas esculturas.
+D: Por que Aleijadinho virou quase uma lenda? | Pouco se sabe com certeza sobre sua vida ; Quanto foi feito por ele e por sua oficina? ; Por que gostamos de heróis?
+A: Escultura em sabão | sabão em barra ; palito ; colher | Desenhe um rosto de profeta no sabão ; Esculpa retirando aos poucos ; Marque as dobras de um manto ; Compare com as obras de Congonhas
+R: Maior nome do Barroco mineiro ; Profetas de Congonhas ; Pedra-sabão e madeira ; Vida cercada de mistério | Aleijadinho é presença garantida em questões sobre arte colonial brasileira.
+
+# mestre-ataide | Mestre Ataíde | O pintor dos céus mineiros | Arte Brasileira | Colônia e Império | barroco | Aleijadinho Santuario Isaias 01.jpg
+B: Manuel da Costa Ataíde | 1762 – 1830 | Nasceu em Mariana, Minas Gerais ; Pintor e dourador ; Trabalhou com Aleijadinho ; Pintou o forro da Igreja de São Francisco de Assis, em Ouro Preto
+C: Pintura de forro em perspectiva | Pintura no teto que cria a ilusão de que a igreja se abre para o céu. | Em italiano, quadratura.
+T: O teto de São Francisco de Assis | Nossa Senhora cercada de anjos músicos ; Arquitetura pintada que parece real ; Cores claras e vivas ; Anjos e santa com traços mestiços
+T: Um Barroco brasileiro | Usou gravuras europeias como modelo ; Adaptou ao gosto e à gente local ; Incluiu rostos mestiços ; Criou uma arte original
+D: Por que é importante que os anjos tenham rostos mestiços? | Representatividade no século XVIII ; Quem estava nas igrejas? ; Que rostos aparecem na arte hoje?
+A: Teto em perspectiva | papel ; régua ; lápis de cor | Desenhe uma moldura de arquitetura vista de baixo ; Abra um céu no centro ; Coloque figuras flutuando ; Pendure no teto da sala
+R: Pintor de Mariana ; Forros em perspectiva ; Igreja de São Francisco de Assis ; Rostos mestiços | Ataíde aparece junto a Aleijadinho em questões sobre o Barroco mineiro.
+
+# academia-imperial | Academia Imperial e pintura histórica | Construir a imagem da nação | Arte Brasileira | Colônia e Império | galeria | Meirelles-primeiramissa2.jpg
+C: Academia Imperial de Belas Artes | Escola oficial de arte do Brasil, criada em 1826 no Rio de Janeiro, que ensinava regras neoclássicas e depois românticas. | Base do ensino de arte no Império.
+C: Pintura histórica | Gênero que representa acontecimentos importantes, muitas vezes para glorificar a nação. | Batalhas, independência e "descobrimento".
+O: Primeira Missa no Brasil | Victor Meirelles ; 1860 ; óleo sobre tela ; Museu Nacional de Belas Artes, Rio | A cruz e a missa no centro ; Indígenas observando ao redor ; Uma visão oficial e harmoniosa da colonização
+T: Grandes pintores | Victor Meirelles: Primeira Missa e Batalha dos Guararapes ; Pedro Américo: Independência ou Morte! ; José Maria de Medeiros: Iracema ; Rodolfo Amoedo e Almeida Júnior
+G: A pintura histórica | Meirelles-primeiramissa2.jpg :: Victor Meirelles, Primeira Missa no Brasil, 1860 ; Pedro Américo - Independência ou Morte - Google Art Project.jpg :: Pedro Américo, Independência ou Morte, 1888
+D: Essas pinturas mostram a história ou criam uma história? | Quem encomendava as obras? ; Como os indígenas aparecem? ; Que imagens oficiais existem hoje?
+A: Releitura crítica | reprodução de uma pintura histórica ; papel ; lápis | Escolha uma pintura histórica ; Redesenhe mudando o ponto de vista ; Mostre quem estava de fora ; Escreva um novo título
+R: Academia criada em 1826 ; Pintura histórica e nação ; Meirelles e Pedro Américo ; Visão oficial | Questões pedem leitura crítica de pinturas históricas como a Primeira Missa.
+
+# almeida-junior | Almeida Júnior | O pintor do caipira | Arte Brasileira | Colônia e Império | impressao | Almeida Júnior - Moça com Livro.jpg
+B: José Ferraz de Almeida Júnior | 1850 – 1899 | Nasceu em Itu, São Paulo ; Estudou na Academia e em Paris ; Voltou para pintar o interior paulista ; Considerado precursor do regionalismo na pintura
+T: Obras famosas | Caipira Picando Fumo (1893) ; O Violeiro ; Saudade ; Leitura e Moça com Livro
+O: Moça com Livro | Almeida Júnior ; c. 1879 ; óleo sobre tela ; coleções brasileiras | Uma jovem absorvida pela leitura ; Luz suave ; Intimidade e silêncio
+X: Pintura acadêmica e Almeida Júnior | Acadêmica: Temas históricos e mitológicos ; Heróis e reis ; Europa como modelo | Almeida Júnior: Gente comum do interior ; Luz brasileira ; Trabalho e vida simples
+G: Obras de Almeida Júnior | Almeida Júnior - Moça com Livro.jpg :: Moça com livro ; Almeida Júnior - Caipira Cutting Tobacco - Google Art Project.jpg :: Caipira picando fumo, 1893 ; Almeida Júnior - Saudade, 1899.jpg :: Saudade, 1899
+D: Por que pintar o caipira era novidade? | Quem era considerado digno de ser pintado? ; Qual a imagem do caipira na TV hoje? ; Estereótipo ou valorização?
+A: Retrato de alguém do interior | foto de familiar ou vizinho ; papel ; lápis de cor | Escolha alguém com uma história do interior ; Desenhe a pessoa fazendo algo típico ; Use a luz do sol do fim da tarde ; Conte a história dela em três linhas
+R: Pintor de Itu ; Caipira como tema ; Realismo e luz brasileira ; Precursor do regionalismo | Almeida Júnior aparece em questões sobre a representação do homem do campo.
+
+# fotografia-no-brasil-imperial | Fotografia no Brasil do século XIX | Dom Pedro II e Marc Ferrez | Arte Brasileira | Colônia e Império | galeria | Gilberto Ferrez, Getty Museum, Abolition of slavery by Princess Isabel of Bresil, 1888.png
+T: Um imperador fotógrafo | Dom Pedro II comprou um daguerreótipo em 1840 ; Foi um dos primeiros fotógrafos do Brasil ; Reuniu uma grande coleção ; A fotografia virou moda na corte
+B: Marc Ferrez | 1843 – 1923 | Principal fotógrafo brasileiro do século XIX ; Registrou paisagens, cidades e ferrovias ; Documentou a natureza e as cidades brasileiras ; Mostrou o trabalho escravizado nas fazendas
+O: Missa campal pela Abolição | Fotógrafo do Rio de Janeiro ; 1888 ; fotografia ; Coleção Gilberto Ferrez e Museu Getty | A multidão diante do palanque ; A princesa Isabel ao fundo ; Um registro de um momento histórico
+T: A fotografia como documento | Registrou a escravidão ; Documentou a Guerra de Canudos, com Flávio de Barros ; Mostrou a transformação do Rio ; Criou a imagem do Brasil para o exterior
+D: Fotografias antigas mostram a verdade? | Quem segurava a câmera? ; Quem posava e quem era obrigado? ; Que fotos da sua família contam histórias?
+A: Álbum de família | fotos antigas da família ; caderno | Escolha uma foto antiga da família ; Descreva roupas, lugar e objetos ; Entreviste alguém sobre aquele dia ; Escreva uma legenda histórica
+R: Dom Pedro II fotógrafo ; Marc Ferrez ; Fotografia como documento ; Escravidão e Canudos | Fotografias históricas aparecem em questões sobre escravidão e República.

@@ -1,0 +1,231 @@
+# desenho | Desenho | A base de todas as artes | Artes Visuais | Técnicas | atelie | Da Vinci Vitruve Luc Viatour.jpg
+C: Desenho | Representação de formas por meio de linhas, pontos e manchas sobre uma superfície. | Do rabisco no caderno ao projeto de um arquiteto.
+T: Para que serve o desenho | Registrar o que se observa ; Planejar pinturas, esculturas e prédios ; Criar personagens e histórias ; Pensar com as mãos
+X: Materiais secos e úmidos | Secos: Grafite, carvão, giz pastel ; Lápis de cor ; Fáceis de apagar e esfumar | Úmidos: Nanquim, canetas ; Aquarela usada como linha ; Traço firme e definitivo
+C: Hachura | Linhas paralelas ou cruzadas usadas para criar sombras e tons. | Quanto mais próximas as linhas, mais escura parece a área.
+T: Tipos de desenho | De observação: olhar o modelo ; De memória: lembrar e reconstruir ; De imaginação: inventar ; Técnico: medidas precisas
+D: Todo mundo sabe desenhar? | Desenho é dom ou treino? ; Por que crianças desenham sem medo? ; O que faz a gente parar de desenhar?
+A: Escala de valores | lápis HB e 6B ; régua ; papel | Desenhe uma faixa com sete quadrados ; Pinte do branco ao mais escuro possível ; Repita usando só hachuras ; Use a escala para sombrear uma fruta
+R: Desenho é base da criação visual ; Materiais secos e úmidos ; Hachura cria sombra ; Observação, memória e imaginação | O desenho aparece em questões sobre processo de criação e esboços de artistas.
+
+# pintura | Pintura | Cor sobre superfície | Artes Visuais | Técnicas | impressao | Renoir, Pierre-Auguste - Dance at Le Moulin de la Galette, 1876.jpg
+C: Pintura | Arte de aplicar pigmentos sobre uma superfície para criar imagens, cores e texturas. | Das paredes das cavernas às telas e murais de grafite.
+T: Os ingredientes da tinta | Pigmento: o pó que dá a cor ; Aglutinante: o que une o pigmento ; Diluente: água, óleo ou solvente ; Suporte: tela, papel, parede, madeira
+X: Técnicas principais | À base de água: Aquarela, guache, acrílica ; Secam rápido ; Fáceis de limpar | À base de óleo: Tinta a óleo ; Secagem lenta ; Permite misturas suaves
+O: Baile no Moulin de la Galette | Pierre-Auguste Renoir ; 1876 ; óleo sobre tela ; Museu d'Orsay, Paris | Manchas de luz entre as árvores ; Pinceladas soltas e vibrantes ; A alegria de um domingo em Paris
+L: Gêneros da pintura | Retrato: pessoas ; Paisagem: natureza e cidades ; Natureza-morta: objetos ; Cena de gênero: vida cotidiana
+D: Por que um quadro original vale mais que uma cópia perfeita? | O que torna uma obra única? ; Ver ao vivo é diferente da foto? ; Pintura digital é pintura?
+A: Tinta caseira | terra, café, urucum ou açafrão ; cola branca ; água ; pincel | Peneire e moa os pigmentos naturais ; Misture com cola e um pouco de água ; Teste as cores no papel ; Pinte uma paisagem com sua tinta
+R: Pigmento, aglutinante e suporte ; Técnicas a água e a óleo ; Gêneros da pintura ; Pintura do muro à tela | Questões pedem para relacionar a técnica da pintura ao efeito visual obtido.
+
+# aquarela | Aquarela | A transparência da água | Artes Visuais | Técnicas | impressao | Claude Monet, Impression, soleil levant.jpg
+C: Aquarela | Pintura feita com pigmentos diluídos em água, que deixa o papel aparecer por transparência. | O branco na aquarela vem do próprio papel, não da tinta.
+T: Técnicas da aquarela | Molhado sobre molhado: cores que se espalham ; Molhado sobre seco: bordas definidas ; Aguada: camada uniforme e leve ; Reserva: deixar áreas brancas do papel
+X: Aquarela e guache | Aquarela: Transparente ; Do claro para o escuro ; Leve e luminosa | Guache: Opaco, cobre o que está embaixo ; Pode corrigir ; Cores chapadas
+T: Quem usou | Albrecht Dürer fez estudos de plantas e animais ; William Turner pintou céus e mares ; Debret registrou o Brasil do século XIX ; Ilustradores de livros infantis até hoje
+D: Por que a aquarela é considerada difícil? | Dá para apagar o erro? ; O acaso ajuda ou atrapalha? ; Aprender a deixar a água trabalhar
+A: Céu em três técnicas | aquarela ; pincel ; papel grosso ; água | Pinte um céu molhado sobre molhado ; Pinte outro com camadas sobre o seco ; Use sal sobre a tinta úmida para criar textura ; Escolha o efeito favorito
+R: Pigmento diluído em água ; Transparência e luz do papel ; Molhado sobre molhado e sobre seco ; Diferente do guache | A aquarela aparece em questões sobre os viajantes que retrataram o Brasil, como Debret.
+
+# afresco-e-mosaico | Afresco e mosaico | Arte nas paredes | Artes Visuais | Técnicas | galeria | The Creation of Adam perspective fix.jpg
+C: Afresco | Pintura feita sobre reboco ainda úmido; ao secar, a tinta se incorpora à parede. | O teto da Capela Sistina, pintado por Michelangelo.
+C: Mosaico | Imagem formada por pequenas peças de pedra, vidro ou cerâmica, chamadas tesselas. | Os mosaicos dourados das igrejas bizantinas de Ravena.
+O: A Criação de Adão | Michelangelo ; c. 1512 ; afresco ; Capela Sistina, Vaticano | Os dedos quase se tocando ; O corpo de Adão relaxado e o de Deus em movimento ; Pintado de pé, olhando para cima
+T: O desafio do afresco | É preciso pintar rápido, antes do reboco secar ; Cada dia de trabalho era uma "giornata" ; Erros obrigam a refazer a parede ; As cores duram séculos
+X: Pintura mural no Brasil | Igrejas barrocas: Tetos pintados em perspectiva ; Mestre Ataíde em Minas | Século XX: Murais de Portinari ; Painéis de Di Cavalcanti ; Hoje, os murais de grafite
+D: Por que pintar uma parede e não uma tela? | Quem vê uma obra na parede? ; Arte pública é diferente da arte de museu? ; Grafite é o afresco de hoje?
+A: Mosaico de papel | revistas ; tesoura ; cola ; cartolina | Recorte quadradinhos coloridos ; Faça um desenho simples na cartolina ; Cole as peças deixando um pequeno espaço entre elas ; Junte os mosaicos num mural da turma
+R: Afresco: tinta no reboco úmido ; Mosaico: tesselas ; Arte ligada à arquitetura ; Do Vaticano ao grafite | O afresco é cobrado junto ao Renascimento e o mosaico junto à arte bizantina.
+
+# escultura | Escultura | Dar forma à matéria | Artes Visuais | Técnicas | galeria | Discobolus in National Roman Museum Palazzo Massimo alle Terme.JPG
+C: Escultura | Arte de criar formas tridimensionais com materiais como pedra, madeira, metal ou argila. | O Davi, de Michelangelo, e os profetas de Aleijadinho.
+X: Retirar e acrescentar | Talha (retirar): Esculpir pedra ou madeira ; Não dá para voltar atrás ; Ex.: mármore, pedra-sabão | Modelagem (acrescentar): Barro, cera, massa ; Pode ser corrigida ; Ex.: cerâmica de Mestre Vitalino
+T: Outras técnicas | Fundição: metal derretido num molde, como o bronze ; Assemblagem: juntar objetos prontos ; Instalação: ocupar um ambiente ; Escultura cinética: obras que se movem
+O: Discóbolo | Míron (cópia romana) ; original c. 450 a.C. ; mármore ; Museu Nacional Romano | O atleta congelado no instante do lançamento ; Equilíbrio entre tensão e calma ; O corpo ideal grego
+C: Relevo | Escultura presa a um fundo, que se destaca dele mais ou menos. | Os portais de catedrais e as moedas.
+D: Uma escultura precisa estar num pedestal? | E as esculturas que andamos por dentro? ; Escultura pode ser feita de lixo? ; Pode ser tocada?
+A: Escultura em sabão | uma barra de sabão ; palito ; colher de plástico | Desenhe a forma nos lados do sabão ; Retire material aos poucos ; Gire sempre a peça ; Alise com o dedo molhado
+R: Talha e modelagem ; Fundição e assemblagem ; Relevo e vulto pleno ; Volume real | A escultura é cobrada em questões sobre arte grega, Barroco mineiro e arte contemporânea.
+
+# gravura | Gravura | A arte de multiplicar imagens | Artes Visuais | Técnicas | brasil | Western Daily Press printing press 1858.jpg
+C: Gravura | Técnica de criar uma matriz que, entintada, imprime a mesma imagem várias vezes. | Cada cópia impressa é chamada de estampa ou tiragem.
+T: Tipos de gravura | Xilogravura: matriz de madeira ; Linoleogravura: matriz de linóleo ; Gravura em metal: matriz de cobre ; Serigrafia: tela vazada
+X: Relevo e encavo | Relevo: Imprime o que fica alto ; Xilogravura ; Linhas fortes | Encavo: Imprime o que fica nos sulcos ; Gravura em metal ; Linhas finas
+O: Prensa do jornal Western Daily Press | Inglaterra ; 1858 ; gravura de jornal ; Wikimedia Commons | A prensa transformou a comunicação ; Imagens e textos em grande quantidade ; A gravura levou a arte ao povo
+T: A imagem invertida | A matriz imprime tudo espelhado ; Letras devem ser gravadas ao contrário ; Cada cor pode precisar de uma matriz ; A assinatura vai a lápis na margem
+D: Uma imagem impressa 100 vezes ainda é obra de arte? | O que vale mais: a matriz ou a estampa? ; O que diria um artista do cordel? ; E as estampas de camiseta?
+A: Gravura em bandeja de isopor | bandeja de isopor ; lápis ; guache ; rolinho ou pincel ; papel | Desenhe afundando o lápis no isopor ; Passe tinta com rolinho ; Pressione o papel por cima ; Faça três cópias com cores diferentes
+R: Matriz que imprime várias cópias ; Relevo e encavo ; Imagem sai invertida ; Arte para muitos | A xilogravura de cordel é presença frequente em provas sobre cultura popular.
+
+# xilogravura | Xilogravura | A madeira que imprime o sertão | Artes Visuais | Técnicas | brasil | Western Daily Press printing press 1858.jpg
+C: Xilogravura | Gravura feita em madeira: o artista escava o desenho e imprime as partes que ficaram em relevo. | Do grego xylon, madeira, e graphein, escrever.
+T: Do Japão ao Nordeste | No Japão, as estampas ukiyo-e encantaram os impressionistas ; Na Europa, Dürer elevou a técnica ; No Brasil, ilustra as capas do cordel ; Artistas como J. Borges levaram o sertão ao mundo
+B: J. Borges | 1935 – 2024 | Nasceu em Bezerros, Pernambuco ; Começou vendendo folhetos de cordel em feiras ; Suas xilogravuras mostram o sertão, festas e lendas ; Expôs em museus de vários países
+X: Linguagem do cordel | Imagem: Preto e branco ; Figuras chapadas ; Contornos fortes | Temas: Sertão e cangaço ; Lendas e milagres ; Notícias e humor
+D: Por que a xilogravura combina com o cordel? | Barata e fácil de reproduzir ; Feita com material local ; A imagem vende o folheto na feira
+A: Capa de cordel | bandeja de isopor ou EVA ; lápis ; tinta preta ; papel | Invente um título de cordel ; Grave a imagem da capa ; Imprima em preto ; Escreva a primeira estrofe embaixo
+R: Gravura em madeira ; Imprime o relevo ; Ligada ao cordel nordestino ; J. Borges como mestre | O Enem valoriza a xilogravura como patrimônio da cultura popular nordestina.
+
+# colagem | Colagem | Cortar, juntar, reinventar | Artes Visuais | Técnicas | sonho | Paul Klee ~ Angelus Novus ~ 1920.jpg
+C: Colagem | Técnica de compor imagens colando papéis, tecidos, fotos e objetos sobre um suporte. | Do francês coller, colar.
+L: Uma técnica moderna | 1912: Picasso e Braque colam papéis em quadros cubistas ; 1916: os dadaístas fazem colagens absurdas ; 1920: fotomontagens políticas na Alemanha ; Anos 1950: a Pop Art usa revistas e anúncios
+X: Colagem e fotomontagem | Colagem: Mistura materiais ; Textura real ; Visual de recorte | Fotomontagem: Junta fotografias ; Cria cenas impossíveis ; Usada na crítica política
+T: Por que colar? | Traz o mundo real para dentro da obra ; Mistura imagens de origens diferentes ; Cria sentidos novos pelo choque ; Qualquer pessoa pode fazer
+D: Memes são colagens? | Juntar imagens muda o sentido? ; Fotomontagem pode enganar? ; Onde termina a arte e começa a montagem?
+A: Retrato surrealista | revistas ; tesoura ; cola ; papel | Recorte olhos, bocas, objetos e paisagens ; Monte um retrato estranho ; Crie um título inesperado ; Exponha numa galeria de corredor
+R: Colagem junta materiais ; Nasce com o Cubismo ; Dadaísmo e fotomontagem ; Cria sentido pelo choque | A colagem aparece ligada às vanguardas europeias e à Pop Art.
+
+# fotografia | Fotografia | Escrever com a luz | Artes Visuais | Imagem e mídia | galeria | NASA-Apollo8-Dec24-Earthrise.jpg
+C: Fotografia | Técnica de registrar imagens por meio da luz, numa superfície sensível ou num sensor digital. | Do grego: foto (luz) e grafia (escrita).
+L: Breve história | 1826: Niépce faz a primeira fotografia que restou ; 1839: anúncio do daguerreótipo ; 1888: câmera Kodak populariza a foto ; 2000: câmeras digitais e, depois, celulares
+O: Nascer da Terra | William Anders ; 1968 ; fotografia (missão Apollo 8) ; NASA | A Terra azul surgindo atrás da Lua ; A fragilidade do planeta ; Uma imagem que inspirou o movimento ambiental
+T: Recursos do fotógrafo | Enquadramento: o que entra e o que fica de fora ; Ângulo: de cima, de baixo, de frente ; Luz natural ou artificial ; O momento do clique
+X: Fotografia documental e artística | Documental: Registra fatos ; Compromisso com a realidade ; Ex.: fotojornalismo | Artística: Expressa ideias ; Pode encenar e manipular ; Ex.: fotografia contemporânea
+D: Uma fotografia mostra a verdade? | O enquadramento pode enganar? ; E os filtros e edições? ; Quem escolhe o que é fotografado?
+A: Ensaio fotográfico com o celular | celular | Escolha um tema: mãos, sombras, texturas ou janelas ; Faça 20 fotos com ângulos diferentes ; Escolha as 5 melhores ; Monte uma mini exposição com títulos
+R: Escrever com a luz ; Do daguerreótipo ao celular ; Enquadramento, ângulo, luz e momento ; Documental e artística | O Enem cobra a fotografia como linguagem e documento histórico.
+
+# fotografia-documental | Fotografia documental | Imagens que denunciam | Artes Visuais | Imagem e mídia | galeria | Breaker Boys in Coal Mine South Pittston Pennsylvania by Lewis Hine.jpeg
+C: Fotografia documental | Fotografia que registra situações reais para informar, denunciar ou preservar a memória. | As fotos de Lewis Hine ajudaram a combater o trabalho infantil nos Estados Unidos.
+O: Meninos da mina de carvão | Lewis Hine ; 1911 ; fotografia ; Biblioteca do Congresso, EUA | Crianças sujas de carvão olhando para a câmera ; O trabalho infantil exposto ; A foto como prova
+T: Fotógrafos que mudaram o olhar | Lewis Hine e o trabalho infantil ; Dorothea Lange e a crise de 1929 ; Sebastião Salgado e os trabalhadores do mundo ; Flávio de Barros e a Guerra de Canudos
+B: Sebastião Salgado | 1944 – 2025 | Economista mineiro que virou fotógrafo ; Fotografou garimpeiros de Serra Pelada ; Fez séries como Trabalhadores, Êxodos e Gênesis ; Com Lélia Wanick, reflorestou uma fazenda em Minas
+D: Fotografar o sofrimento ajuda ou explora? | É preciso pedir permissão? ; A foto pode mudar uma lei? ; E hoje, com todos filmando tudo?
+A: Retrato da escola | celular | Escolha um problema real da escola ou do bairro ; Fotografe sem expor rostos sem permissão ; Escreva uma legenda informativa ; Monte uma reportagem fotográfica
+R: Registro da realidade ; Denúncia e memória ; Hine, Lange, Salgado ; Ética da imagem | O Enem já usou fotografias documentais como ponto de partida para questões sociais.
+
+# cinema | Cinema | A arte das imagens em movimento | Artes Visuais | Imagem e mídia | cena | 1930-1940s Cinema, Union Street - geograph.org.uk - 359262.jpg
+C: Cinema | Arte que cria a ilusão de movimento projetando imagens em sequência, geralmente 24 por segundo. | É chamado de sétima arte.
+L: Marcos do cinema | 1895: os irmãos Lumière fazem a primeira sessão pública ; 1902: Méliès filma Viagem à Lua ; 1927: o cinema ganha som ; Anos 1960: o Cinema Novo no Brasil
+T: A linguagem do cinema | Plano: o enquadramento da câmera ; Montagem: a ordem dos planos ; Trilha sonora: músicas e ruídos ; Roteiro: a história escrita
+X: Planos de câmera | Abertos: Plano geral ; Mostram o ambiente ; Situam o espectador | Fechados: Close e plano detalhe ; Mostram emoção ; Aproximam do personagem
+Q: Uma câmera na mão e uma ideia na cabeça. | Glauber Rocha | lema do Cinema Novo
+D: O cinema perde força com o streaming? | Ver no celular é a mesma experiência? ; Por que ir ao cinema? ; Séries são cinema?
+A: Filme de um minuto | celular | Escreva uma história com começo, meio e fim ; Desenhe um storyboard de seis quadros ; Grave usando três tipos de plano ; Monte e exiba para a turma
+R: Imagens em movimento ; Plano, montagem, som e roteiro ; Lumière e Méliès ; Cinema Novo brasileiro | O cinema aparece em questões sobre linguagem audiovisual e Cinema Novo.
+
+# animacao | Animação | Dar vida ao desenho | Artes Visuais | Imagem e mídia | pop | Madrid Marionettentheater Kinder-20150110-RM-144736.jpg
+C: Animação | Técnica que cria movimento a partir de muitas imagens fixas mostradas em sequência rápida. | Em 1 segundo de desenho animado, podem existir 12 a 24 desenhos.
+T: Tipos de animação | Desenho quadro a quadro ; Stop motion com bonecos e massinha ; Recorte de papel ; Animação em computador (3D)
+L: Linha do tempo | 1832: o fenaquistoscópio cria ilusão de movimento ; 1908: Fantasmagorie, um dos primeiros desenhos animados ; 1917: El Apóstol, primeiro longa animado, feito na Argentina ; 1995: primeiro longa todo feito em computador
+C: Persistência da visão | Efeito pelo qual o olho mantém a imagem por um instante, unindo quadros em movimento. | É o princípio do flip book, o livrinho de desenhos que se folheia.
+D: Animação é só para crianças? | Você conhece animações para adultos? ; Animação japonesa é diferente? ; Por que animar dá tanto trabalho?
+A: Flip book | bloco de notas pequeno ; lápis | Desenhe uma bolinha no canto da última folha ; Em cada folha anterior, mude um pouco a posição ; Faça pelo menos 20 desenhos ; Folheie rápido e veja o movimento
+R: Imagens fixas em sequência ; Quadro a quadro, stop motion, 3D ; Persistência da visão ; Do brinquedo óptico ao computador | A animação aparece em questões sobre linguagens audiovisuais e tecnologia.
+
+# historia-em-quadrinhos | Histórias em quadrinhos | Arte sequencial | Artes Visuais | Imagem e mídia | pop | Times Square 20190726.jpg
+C: Arte sequencial | Linguagem que conta histórias com imagens organizadas em sequência, como nos quadrinhos. | Termo popularizado pelo quadrinista Will Eisner.
+T: Elementos dos quadrinhos | Quadros (vinhetas) ; Balões de fala e de pensamento ; Onomatopeias: POW! CRASH! ; Requadro e calha: o espaço entre os quadros
+X: Tipos de balão | Fala: Contorno contínuo ; Rabicho para quem fala ; Diálogo comum | Outros: Pensamento em nuvem ; Grito com contorno serrilhado ; Cochicho tracejado
+T: Quadrinhos no Brasil | Angelo Agostini e Nhô Quim, de 1869 ; O Tico-Tico, revista infantil de 1905 ; Ziraldo e a Turma do Pererê ; Mauricio de Sousa e a Turma da Mônica
+D: Quadrinho é literatura, arte ou os dois? | Por que entraram em museus? ; Mangá é diferente? ; Quadrinhos ensinam?
+A: Tirinha de três quadros | folha ; régua ; lápis ; caneta | Crie um personagem simples ; Planeje início, conflito e final engraçado ; Use pelo menos dois tipos de balão ; Inclua uma onomatopeia
+R: Arte sequencial ; Quadros, balões, onomatopeias ; Agostini, Ziraldo, Mauricio ; Diálogo com a Pop Art | Tirinhas são muito usadas no Enem; preste atenção à relação entre imagem e texto.
+
+# arte-digital | Arte digital | Pixels, códigos e telas | Artes Visuais | Imagem e mídia | pop | BalticServers data center.jpg
+C: Arte digital | Arte criada ou apresentada com tecnologias digitais: computador, tablet, programas e telas. | Ilustrações digitais, pixel art, animação 3D e arte interativa.
+T: Formas de arte digital | Pintura e ilustração digital ; Pixel art, inspirada nos jogos antigos ; Arte generativa, feita com códigos ; Realidade virtual e aumentada
+C: Pixel | O menor ponto de uma imagem digital, como um quadradinho de mosaico na tela. | Uma foto de celular pode ter mais de 12 milhões de pixels.
+X: Tradicional e digital | Tradicional: Original físico único ; Materiais reais ; Erros ficam marcados | Digital: Pode ser copiada sem perda ; Desfazer e camadas ; Circula na internet
+T: Games como arte | Unem desenho, música, roteiro e programação ; Têm estilos visuais próprios ; Museus já expõem jogos ; Contam histórias interativas
+D: Um jogo pode ser obra de arte? | Quem é o artista num game feito por 500 pessoas? ; Arte digital tem original? ; Desenhar no tablet é mais fácil?
+A: Pixel art no papel | papel quadriculado ; canetinhas | Escolha um personagem ou objeto ; Desenhe só pintando quadradinhos ; Use no máximo cinco cores ; Transforme num ímã ou marcador de página
+R: Arte feita com tecnologia digital ; Pixel, código e interação ; Games como linguagem artística ; Cópia e original | Questões recentes discutem arte digital, games e cultura das redes.
+
+# arquitetura | Arquitetura | A arte de construir espaços | Artes Visuais | Técnicas | bauhaus | Brazilian National Congress.jpg
+C: Arquitetura | Arte e técnica de projetar e construir espaços para as pessoas viverem, trabalharem e se encontrarem. | Casas, escolas, igrejas, praças e cidades inteiras.
+T: Os três princípios | Firmeza: a estrutura precisa resistir ; Utilidade: o espaço precisa funcionar ; Beleza: o prédio também comunica ; Princípios do romano Vitrúvio
+O: Congresso Nacional | Oscar Niemeyer ; 1960 ; concreto armado ; Brasília | As duas cúpulas, uma para cima e outra para baixo ; As torres gêmeas ao centro ; Curvas leves para um material pesado
+L: Estilos ao longo da história | Grécia: templos com colunas ; Idade Média: catedrais góticas ; Barroco: igrejas cheias de curvas e ouro ; Século XX: concreto, vidro e linhas retas
+X: Arquitetura colonial e moderna no Brasil | Colonial: Casarões e igrejas ; Taipa, pedra e madeira ; Ex.: Ouro Preto | Moderna: Concreto armado e vidro ; Pilotis e formas livres ; Ex.: Brasília
+D: Como a arquitetura da sua escola influencia o seu dia? | Há luz natural? ; Os espaços convidam a conviver? ; O que você mudaria?
+A: Maquete da escola ideal | caixas ; papelão ; tesoura ; cola ; tinta | Liste o que uma escola ideal precisa ter ; Desenhe a planta vista de cima ; Monte a maquete em grupo ; Apresente as soluções criadas
+R: Firmeza, utilidade e beleza ; Estilos de cada época ; Niemeyer e Brasília ; Arquitetura colonial e moderna | Brasília e Niemeyer aparecem com frequência em questões de arte e história.
+
+# design-grafico | Design gráfico | Comunicar com imagem e letra | Artes Visuais | Imagem e mídia | bauhaus | Encyclopedie frontispice full.jpg
+C: Design gráfico | Área que planeja a comunicação visual de marcas, cartazes, livros, sites e embalagens. | O logotipo de uma marca e a capa de um livro.
+T: Ferramentas do designer | Tipografia: o desenho das letras ; Cor e contraste ; Grid: a malha que organiza a página ; Imagem e ícones
+X: Arte e design | Arte: Expressão do artista ; Livre interpretação ; Não precisa ter uso | Design: Resolve um problema ; Comunica uma mensagem clara ; Pensa no usuário
+T: A Bauhaus e o design moderno | Escola alemã fundada em 1919 ; Uniu arte, artesanato e indústria ; Valorizou formas simples e funcionais ; Influencia móveis, cartazes e apps até hoje
+C: Identidade visual | Conjunto de logotipo, cores e letras que tornam uma marca reconhecível. | Você reconhece algumas marcas só pela cor.
+D: Um bom design passa despercebido? | Você nota as placas de um aeroporto? ; Por que alguns apps são fáceis de usar? ; Design pode ser inclusivo?
+A: Identidade visual da turma | papel ; canetas ; régua | Crie um nome para a turma ; Desenhe três ideias de logotipo ; Escolha duas cores e uma letra ; Aplique num cartaz e num crachá
+R: Comunicação visual planejada ; Tipografia, cor, grid ; Bauhaus como marco ; Identidade visual | O design gráfico aparece em questões sobre cartazes, logotipos e a Bauhaus.
+
+# tipografia-e-caligrafia | Tipografia e caligrafia | O desenho das letras | Artes Visuais | Técnicas | atelie | Les Très Riches Heures du duc de Berry juin.jpg
+C: Caligrafia | Arte de escrever à mão com beleza, ritmo e regularidade. | Monges medievais copiavam livros inteiros à mão.
+C: Tipografia | Arte de desenhar e organizar letras para impressão e telas. | Cada fonte do computador foi desenhada por alguém.
+L: Das mãos às telas | Idade Média: manuscritos iluminados ; c. 1450: Gutenberg imprime com tipos móveis ; Século XIX: letras grandes em cartazes ; Hoje: milhares de fontes digitais
+X: Famílias de letras | Serifadas: Têm pequenos "pés" ; Clássicas e formais ; Comuns em livros | Sem serifa: Formas limpas ; Modernas e diretas ; Comuns em telas e placas
+T: Letras que viraram arte | Iluminuras com letras capitulares decoradas ; Pichação e letreiros do grafite ; Lettering em cartazes e camisetas ; Caligrafia japonesa (shodô)
+D: Uma fonte muda o sentido de uma frase? | "Feliz aniversário" numa letra de terror? ; Por que documentos usam letras sérias? ; Letra feia existe?
+A: Seu nome em três estilos | lápis ; canetas de ponta grossa e fina | Escreva o nome em letra serifada ; Depois em letra sem serifa ; Crie um lettering decorado ; Decore a primeira letra como uma iluminura
+R: Caligrafia é escrita à mão ; Tipografia organiza letras ; Gutenberg e os tipos móveis ; Serifadas e sem serifa | A tipografia aparece em questões de leitura de cartazes e de gêneros multimodais.
+
+# ceramica | Cerâmica | Arte do barro e do fogo | Artes Visuais | Técnicas | raiz | Pintura Indígena do povo Kurâ-Bakairi de Mato Grosso.jpg
+C: Cerâmica | Objetos feitos de argila moldada e endurecida pelo fogo, com usos práticos, rituais ou artísticos. | Panelas, vasos, urnas funerárias, azulejos e esculturas.
+T: Etapas da cerâmica | Preparar o barro ; Modelar: com as mãos, em rolinhos ou no torno ; Secar à sombra ; Queimar no forno
+T: Cerâmica no Brasil | Marajoara: Ilha de Marajó, há mais de mil anos ; Tapajônica: figuras e vasos detalhados ; Mestre Vitalino e o barro de Caruaru ; Paneleiras de Goiabeiras, no Espírito Santo
+O: Pintura do povo Kurâ-Bakairi | Povo Kurâ-Bakairi, Mato Grosso ; tradição viva ; pintura com padrões geométricos ; Wikimedia Commons | Padrões que se repetem ; Cores da terra ; Saberes passados entre gerações
+X: Usos da cerâmica | Utilitária: Guardar, cozinhar, servir ; Ex.: panela de barro capixaba | Ritual e artística: Urnas e estatuetas ; Ex.: urnas marajoaras
+D: Por que a cerâmica é tão importante para a arqueologia? | Barro queimado dura milhares de anos ; Revela modos de vida ; O que nossos objetos dirão de nós?
+A: Vaso de rolinhos | argila ou massa de modelar ; palito ; água | Faça uma base redonda ; Sobreponha rolinhos em espiral ; Alise por dentro e por fora ; Grave padrões geométricos com o palito
+R: Argila endurecida pelo fogo ; Modelar, secar, queimar ; Marajoara, Tapajônica, Vitalino ; Utilitária e ritual | A cerâmica marajoara é tema recorrente sobre arte indígena e patrimônio.
+
+# instalacao | Instalação | Quando a obra é o ambiente | Artes Visuais | Técnicas | sonho | 'Fountain' by Marcel Duchamp (replica).JPG
+C: Instalação | Obra que ocupa um espaço inteiro e convida o público a entrar, percorrer e sentir. | Uma sala cheia de objetos, sons e luzes pensada como uma única obra.
+T: Características | O espectador está dentro da obra ; Mistura objetos, luz, som e vídeo ; Pode ser temporária ; Muitas vezes é pensada para um lugar específico
+T: Instalações brasileiras | Hélio Oiticica: Tropicália, 1967 ; Cildo Meireles: Desvio para o Vermelho ; Ernesto Neto: esculturas de tecido para entrar ; Inhotim reúne obras gigantes ao ar livre
+C: Site-specific | Obra criada para um lugar determinado e que perde sentido se for levada para outro. | Uma instalação que usa a luz de uma única janela de um museu.
+D: Se a obra é desmontada, ela deixa de existir? | O que fica: fotos, memória, projeto? ; Uma festa pode ser instalação? ; Por que tantas instalações em bienais?
+A: Instalação na sala | objetos da escola ; barbante ; lanterna ; papel | Escolham um tema, como "memória" ou "silêncio" ; Transformem um canto da sala ; Usem luz e som ; Convidem outra turma para visitar
+R: A obra é o ambiente ; O público está dentro ; Site-specific ; Oiticica, Cildo, Ernesto Neto | A instalação aparece em questões sobre arte contemporânea e participação do público.
+
+# arte-urbana-e-grafite | Arte urbana e grafite | A cidade como tela | Artes Visuais | Imagem e mídia | pop | Grafite - Paulo Speto, Museu Afro Brasil 1.JPG
+C: Grafite | Arte feita em muros e espaços públicos, geralmente com spray, ligada à cultura hip-hop. | Murais coloridos que transformam paredes cinzentas.
+X: Grafite e pichação | Grafite: Imagens e cores ; Muitas vezes autorizado ; Diálogo com o público | Pichação: Assinaturas e letras ; Geralmente sem autorização ; Marcar território
+T: Grafiteiros brasileiros | OSGEMEOS: personagens amarelos de São Paulo para o mundo ; Eduardo Kobra: murais gigantes coloridos ; Paulo Speto: cores e cultura popular ; Panmela Castro: arte e direitos das mulheres
+O: Mural no Museu Afro Brasil | Paulo Speto ; século XXI ; spray e tinta acrílica ; São Paulo | Cores vibrantes ; Figuras ligadas à cultura brasileira ; O grafite entrando no museu
+L: Grafite no tempo | Anos 1970: grafite nos metrôs de Nova York ; 1978: Alex Vallauri começa em São Paulo ; 27 de março: Dia do Grafite no Brasil ; Hoje: festivais e murais oficiais
+D: Grafite no museu continua sendo grafite? | A rua é o lugar dele? ; Quem decide o que pode ficar no muro? ; Grafite valoriza ou "gentrifica" um bairro?
+A: Mural de papel | papel kraft ; tinta guache ; esponja ; molde vazado | Escolha uma mensagem para a escola ; Crie moldes vazados (estêncil) ; Pinte com esponja ; Monte um mural coletivo no corredor
+R: Arte pública e urbana ; Grafite e pichação ; OSGEMEOS, Kobra, Vallauri ; Ligado ao hip-hop | O grafite é cobrado como expressão artística urbana e de identidade juvenil.
+
+# corpo-na-arte | O corpo na arte | Representar, transformar, performar | Artes Visuais | Arte e sociedade | expressao | Da Vinci Vitruve Luc Viatour.jpg
+T: O corpo em cada época | Grécia: o corpo ideal dos atletas ; Idade Média: o corpo escondido e simbólico ; Renascimento: estudo da anatomia ; Arte contemporânea: o corpo como obra
+X: Corpo representado e corpo presente | Representado: Pintura e escultura ; O corpo é tema ; Ex.: Davi, de Michelangelo | Presente: Performance e dança ; O corpo é o material ; Ex.: Marina Abramović
+C: Performance | Ação artística realizada ao vivo pelo corpo do artista, muitas vezes com a participação do público. | O artista pode ficar horas parado em silêncio, olhando cada visitante.
+T: Corpos diversos | Frida Kahlo pintou seu corpo ferido ; Artistas negras discutem a representação de seus corpos ; A arte questiona padrões de beleza ; Corpos com deficiência ganham espaço nas artes
+D: Por que padrões de corpo mudam tanto? | Quem lucra com padrões de beleza? ; A arte pode libertar o corpo? ; Como o corpo aparece nas redes sociais?
+A: Silhueta da turma | papel kraft ; pincel atômico ; tintas | Em duplas, contornem o corpo do colega no chão ; Preencham a silhueta com palavras e símbolos sobre quem são ; Exponham todas juntas ; Conversem sobre diversidade
+R: O corpo muda de sentido em cada época ; Representado ou presente ; Performance ; Diversidade de corpos | Questões sobre corpo relacionam arte, padrões de beleza e identidade.
+
+# retrato-e-autorretrato | Retrato e autorretrato | Quem eu sou na imagem | Artes Visuais | Arte e sociedade | galeria | Albrecht Dürer - 1500 self-portrait (High resolution and detail).jpg
+C: Retrato | Representação de uma pessoa, que busca mostrar sua aparência e também seu jeito e sua posição social. | Retratos de reis mostravam joias, coroas e poder.
+C: Autorretrato | Retrato que o artista faz de si mesmo. | Rembrandt pintou quase 100 autorretratos ao longo da vida.
+T: O que um retrato conta | A roupa e os objetos indicam profissão e riqueza ; A pose mostra poder ou intimidade ; O olhar cria relação com quem vê ; O fundo situa a pessoa no mundo
+B: Frida Kahlo | 1907 – 1954 | Pintou 55 autorretratos ; Usou roupas e símbolos da cultura mexicana ; Mostrou a dor de um acidente grave ; Transformou a própria vida em tema
+X: Autorretrato e selfie | Autorretrato: Feito com tempo ; Reflexão sobre si ; Escolha de símbolos | Selfie: Instantânea ; Feita para compartilhar ; Filtros e poses padronizadas
+D: Uma selfie pode ser um autorretrato artístico? | O que você mostra e esconde nas fotos? ; Filtros mudam a identidade? ; Quem é você sem a câmera?
+A: Autorretrato com símbolos | espelho ; lápis ; lápis de cor | Observe seu rosto no espelho ; Desenhe com atenção às proporções ; Cerque-se de três objetos que contam quem você é ; Escreva um título
+R: Retrato mostra aparência e posição ; Autorretrato é olhar para si ; Frida e Rembrandt ; Selfie e identidade | O autorretrato aparece em questões sobre identidade, Frida Kahlo e cultura digital.
+
+# paisagem | Paisagem | A natureza vista pela arte | Artes Visuais | Arte e sociedade | impressao | Philipp Jakob Loutherbourg d. J. 002.jpg
+C: Paisagem | Gênero de pintura que tem a natureza ou a cidade como tema principal. | Montanhas, mares, rios, florestas e ruas.
+L: A paisagem conquista espaço | Renascimento: aparece como fundo ; Século XVII: vira tema na Holanda ; Século XIX: os românticos e os impressionistas ; Século XX: a paisagem urbana e industrial
+O: Coalbrookdale à noite | Philip James de Loutherbourg ; 1801 ; óleo sobre tela ; Museu de Ciência, Londres | O fogo das fábricas iluminando a noite ; A Revolução Industrial como espetáculo ; Beleza e ameaça ao mesmo tempo
+X: Natureza romântica e impressionista | Romântica: Natureza grandiosa ; Tempestades e abismos ; Sentimento do sublime | Impressionista: Luz e instante ; Pintura ao ar livre ; Cenas de lazer
+T: Paisagens do Brasil | Frans Post pintou engenhos no século XVII ; Os viajantes registraram florestas e cidades ; Tarsila criou paisagens de cores caipiras ; Burle Marx desenhou jardins como pinturas
+D: Que paisagem representa o lugar onde você vive? | O que você mostraria? ; O que esconderia? ; A paisagem muda com o tempo?
+A: Paisagem pela janela | papel ; lápis ; aquarela ou lápis de cor | Desenhe a vista de uma janela da escola ; Separe primeiro plano, meio e fundo ; Use cores mais claras ao fundo ; Pinte de novo em outro horário
+R: Natureza e cidade como tema ; Do fundo de cena ao gênero ; Romântica e impressionista ; Paisagens brasileiras | A paisagem aparece em questões sobre Romantismo, Impressionismo e meio ambiente.
+
+# natureza-morta | Natureza-morta | O mundo dos objetos | Artes Visuais | Arte e sociedade | galeria | Juan Gris (José Victoriano González Pérez), Spanish - Still Life before an Open Window, Place Ravignan - Google Art Project.jpg
+C: Natureza-morta | Gênero de pintura que representa objetos inanimados: frutas, flores, louças, livros, instrumentos. | Em francês, nature morte; em inglês, still life (vida parada).
+C: Vanitas | Natureza-morta com símbolos da passagem do tempo, como caveiras, velas e flores murchas. | Lembrava que a vida é breve e a riqueza não dura.
+T: Símbolos comuns | Frutas maduras: abundância ; Vela apagada: fim da vida ; Relógio e ampulheta: o tempo ; Instrumentos musicais: prazeres passageiros
+X: Barroco e Cézanne | Barroco holandês: Realismo minucioso ; Luz dramática ; Mensagens morais | Cézanne: Formas geométricas ; Vários pontos de vista ; Abre caminho ao Cubismo
+Q: Trate a natureza por meio do cilindro, da esfera e do cone. | Paul Cézanne | carta a Émile Bernard, 1904
+D: Que objetos contariam a sua história hoje? | Celular, fone, tênis? ; O que eles dizem do nosso tempo? ; Qual seria a "vanitas" de hoje?
+A: Natureza-morta da mochila | objetos da mochila ; lápis ; papel | Arrume três a cinco objetos sobre a mesa ; Ilumine de um lado só ; Desenhe com atenção às sombras ; Dê um título que conte algo sobre você
+R: Objetos inanimados como tema ; Vanitas e símbolos ; Barroco holandês ; Cézanne e as formas geométricas | A natureza-morta aparece ligada ao Barroco e a Cézanne, precursor do Cubismo.

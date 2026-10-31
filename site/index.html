@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0e0b09">
+<meta name="robots" content="noindex, nofollow">
+<title>ArtFlix Slides</title>
+<meta name="description" content="200 aulas de Arte prontas e editáveis, cada uma num estilo artístico, para projetar em sala.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&family=Archivo+Black&family=Bangers&family=Bebas+Neue&family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,700;12..96,800&family=Caveat:wght@600;700&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,800;1,9..144,400;1,9..144,600&family=Syne:wght@700;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<!--CORPO-->
+<header class="topo">
+  <div class="wrap">
+    <a class="logo" href="./" aria-label="ArtFlix Slides, início">Art<i>flix</i> <small>SLIDES</small></a>
+    <div class="filtros" role="group" aria-label="Área">
+      <button type="button" data-filtro="Todas" aria-pressed="true">Todas</button>
+      <button type="button" data-filtro="Artes Visuais" aria-pressed="false">Artes Visuais</button>
+      <button type="button" data-filtro="História da Arte" aria-pressed="false">História da Arte</button>
+      <button type="button" data-filtro="Arte Brasileira" aria-pressed="false">Arte Brasileira</button>
+      <button type="button" data-filtro="Música" aria-pressed="false">Música</button>
+      <button type="button" data-filtro="Teatro" aria-pressed="false">Teatro</button>
+      <button type="button" data-filtro="Dança" aria-pressed="false">Dança</button>
+      <button type="button" data-filtro="Minhas" aria-pressed="false">Minhas</button>
+    </div>
+    <label class="busca"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input id="busca" type="search" placeholder="Artista, obra, movimento ou tema" aria-label="Buscar apresentações" autocomplete="off"></label>
+  </div>
+</header>
+<main>
+  <section class="destaque" id="destaque">
+    <div class="wrap"><div id="destaque-txt"></div><div class="palco-destaque" id="destaque-tela"></div></div>
+  </section>
+  <div class="estilos wrap" id="estilos" role="group" aria-label="Filtrar por estilo"></div>
+  <div id="catalogo"></div>
+</main>
+<footer class="rodape">
+  <div class="wrap">
+    <p><b>Suas edições ficam salvas neste navegador.</b> Para levar para outro computador, baixe um backup e importe lá.</p>
+    <div class="rodape-acoes">
+      <button type="button" class="btn btn--glass btn--peq" data-exportar>Baixar backup das edições</button>
+      <label class="btn btn--glass btn--peq">Importar backup<input type="file" accept="application/json,.json" data-importar hidden></label>
+      <button type="button" class="btn btn--glass btn--peq" data-creditos>Créditos das imagens</button>
+    </div>
+  </div>
+</footer>
+<div class="editor" id="editor" hidden>
+  <div class="ed-topo">
+    <button type="button" class="ed-voltar" data-ed-fechar aria-label="Fechar o editor"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 5-7 7 7 7"/></svg><span>Concluir</span></button>
+    <div class="ed-tit"><small>Editando</small><b id="ed-nome"></b></div>
+    <span class="ed-status" id="ed-status" role="status">Salvo neste navegador</span>
+    <button type="button" class="btn btn--glass btn--peq" data-ed-pptx>Baixar PowerPoint</button>
+    <button type="button" class="btn btn--ouro btn--peq" data-ed-apresentar>Apresentar</button>
+  </div>
+  <div class="ed-corpo">
+    <aside class="ed-lista" id="ed-lista" aria-label="Slides"></aside>
+    <section class="ed-palco" aria-label="Prévia"><div class="quadro ed-quadro" id="ed-quadro"></div><p class="ed-dica">A prévia muda enquanto você digita. Textos longos diminuem sozinhos para caber no slide.</p></section>
+    <section class="ed-form" id="ed-form" aria-label="Conteúdo do slide"></section>
+  </div>
+</div>
+<div class="aviso" id="aviso" role="status" hidden></div>
+<div class="painel" id="painel" hidden></div>
+<div class="apresentador" id="apresentador" hidden>
+  <div class="palco" id="ap-palco">
+    <div class="quadro" id="ap-quadro"></div>
+    <button type="button" class="zona zona--esq" id="zona-esq" aria-label="Slide anterior"></button>
+    <button type="button" class="zona zona--dir" id="zona-dir" aria-label="Próximo slide"></button>
+    <div class="notas" id="ap-notas" hidden></div>
+    <div class="faixa-mini" id="ap-faixa" hidden></div>
+    <div class="progresso"><i id="ap-prog"></i></div>
+    <p class="girar" aria-hidden="true">↻ Gire o celular para ver maior</p>
+  </div>
+  <div class="controles">
+    <button type="button" id="bt-sair" aria-label="Sair da apresentação"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <span class="titulo-ap" id="ap-titulo"></span>
+    <button type="button" id="bt-ant" aria-label="Slide anterior"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 5-7 7 7 7"/></svg></button>
+    <span class="contador" id="ap-cont">1 / 1</span>
+    <button type="button" id="bt-prox" aria-label="Próximo slide"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7"/></svg></button>
+    <button type="button" id="bt-grade" aria-pressed="false" aria-label="Ver todos os slides"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></button>
+    <button type="button" id="bt-notas" aria-pressed="false" aria-label="Notas do professor"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 4h14v16H5z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg></button>
+    <button type="button" id="bt-tela" aria-label="Tela cheia"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+  </div>
+</div>
+<div id="impressao" hidden></div>
+<!--/CORPO-->
+<script src="decks.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

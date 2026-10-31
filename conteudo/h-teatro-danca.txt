@@ -1,0 +1,245 @@
+# o-que-e-teatro | O que é teatro? | Alguém, diante de alguém, finge ser outro | Teatro | Fundamentos do teatro | cena | Sousse mosaic theatre masks detail 02.JPG
+C: Teatro | Arte em que atores representam uma história ao vivo, diante de um público, no mesmo tempo e espaço. | Palavra grega que significa "lugar de onde se vê".
+T: Elementos essenciais | Ator ; Público ; Espaço cênico ; Ação dramática
+X: Teatro e cinema | Teatro: Ao vivo ; Cada apresentação é única ; Público e ator no mesmo espaço | Cinema: Gravado ; Igual a cada sessão ; Câmera escolhe o que vemos
+T: Onde há teatro | Palcos italianos, com plateia de frente ; Arenas, com público em volta ; Ruas e praças ; Escolas, igrejas, circos
+Q: O mundo inteiro é um palco, e todos os homens e mulheres não passam de atores. | William Shakespeare | Como Gostais, c. 1599
+D: Fingimos papéis no dia a dia? | Você age igual em casa e na escola? ; Redes sociais são um palco? ; O que é ser "autêntico"?
+A: Estátuas vivas | o próprio corpo | Em grupos, criem uma cena congelada sobre um tema ; A turma tenta adivinhar o que acontece ; Ao toque do professor, a cena ganha 10 segundos de vida ; Troquem os temas
+R: Arte ao vivo ; Ator, público, espaço e ação ; Diferente do cinema ; Palco, arena e rua | O teatro é cobrado como linguagem do corpo e da presença.
+
+# teatro-grego | Teatro grego | Tragédia, comédia e o coro | Teatro | História do teatro | cena | Sousse mosaic theatre masks detail 02.JPG
+C: Tragédia | Gênero teatral grego que mostra heróis enfrentando o destino, despertando no público compaixão e medo. | Édipo Rei, de Sófocles.
+C: Comédia | Gênero que ri dos costumes, dos políticos e da vida comum. | As comédias de Aristófanes satirizavam Atenas.
+T: O teatro em Atenas | Fazia parte das festas para o deus Dionísio ; Ao ar livre, para milhares de pessoas ; Só homens atuavam, usando máscaras ; O coro cantava e comentava a ação
+T: Autores | Ésquilo ; Sófocles: Édipo Rei e Antígona ; Eurípides: Medeia ; Aristófanes: comédias
+O: Máscaras de teatro em mosaico | Arte romana ; séculos II a III ; mosaico ; Museu de Sousse, Tunísia | As expressões exageradas ; Máscaras para ser vistas de longe ; Herança grega na arte romana
+D: Por que o símbolo do teatro são duas máscaras? | Alegria e tristeza ; Tragédia e comédia ; As emoções humanas se repetem?
+A: Máscaras da turma | prato de papel ; tesoura ; tinta | Crie uma máscara de tragédia e outra de comédia ; Exagere as expressões ; Com as máscaras, improvise uma fala ; Perceba como o corpo muda
+R: Festas para Dionísio ; Tragédia e comédia ; Máscaras e coro ; Sófocles e Aristófanes | O teatro grego é a base do teatro ocidental e aparece em questões sobre catarse.
+
+# commedia-dellarte | Commedia dell'arte | Improviso e máscaras italianas | Teatro | História do teatro | pop | 
+C: Commedia dell'arte | Teatro popular italiano dos séculos XVI a XVIII, com personagens fixos, máscaras e muito improviso. | Atores viajavam com carroças pelas cidades.
+T: Personagens | Arlequim, o criado esperto e faminto ; Pantaleão, o velho avarento ; Colombina, a criada inteligente ; Os enamorados, apaixonados e sem máscara
+C: Canovaccio | Roteiro com o resumo das cenas, sobre o qual os atores improvisavam. | Não havia texto decorado palavra por palavra.
+T: Heranças | Molière e as comédias francesas ; Palhaços de circo ; Personagens de novelas e humoristas ; Teatro de rua no Brasil
+D: Por que personagens-tipo funcionam até hoje? | O avarento, o espertalhão, os apaixonados ; Você reconhece tipos em séries? ; Isso é estereótipo?
+A: Improviso com personagens | papéis com nomes dos personagens | Sorteie um personagem da commedia ; Receba uma situação, como "perdi a chave" ; Improvise dois minutos em dupla ; Exagere o corpo do personagem
+R: Teatro popular italiano ; Personagens fixos e máscaras ; Improviso e canovaccio ; Influência na comédia | A commedia dell'arte aparece em questões sobre teatro popular e improvisação.
+
+# shakespeare | William Shakespeare | O maior dramaturgo da língua inglesa | Teatro | História do teatro | cena | Frank Bernard Dicksee - Romeo and Juliet, 1884.jpg
+B: William Shakespeare | 1564 – 1616 | Nasceu em Stratford-upon-Avon, Inglaterra ; Ator, poeta e dramaturgo ; Escreveu cerca de 39 peças ; Trabalhou no teatro Globe, em Londres
+T: Obras | Romeu e Julieta ; Hamlet ; Macbeth ; Sonho de uma Noite de Verão
+O: Romeu e Julieta | Frank Dicksee ; 1884 ; óleo sobre tela ; Southampton City Art Gallery | O beijo de despedida na varanda ; Luz da manhã que separa os amantes ; Uma cena de teatro que virou pintura
+Q: Ser ou não ser, eis a questão. | William Shakespeare | Hamlet, c. 1600
+D: Por que Shakespeare ainda é tão encenado? | Amor, poder, ciúme e vingança ; Adaptações em filmes e novelas ; Que peça dele você reescreveria?
+A: Romeu e Julieta hoje | trecho da peça ; papel | Leia a cena da varanda ; Reescreva com linguagem de hoje ; Encene em dupla ; Compare as duas versões
+R: Dramaturgo inglês ; Romeu e Julieta, Hamlet, Macbeth ; Teatro Globe ; Temas universais | Shakespeare aparece em questões de leitura e intertextualidade.
+
+# teatro-no-brasil | Teatro no Brasil | De Anchieta a Nelson Rodrigues | Teatro | Teatro brasileiro | cena | 
+L: Linha do tempo | Séc. XVI: autos de José de Anchieta para catequese ; Séc. XIX: comédias de Martins Pena ; 1943: Vestido de Noiva estreia no Rio ; 1958: Teatro de Arena e Eles Não Usam Black-Tie
+B: Nelson Rodrigues | 1912 – 1980 | Jornalista e dramaturgo pernambucano ; Vestido de Noiva renovou o teatro brasileiro ; Mostrou a vida e os conflitos da classe média carioca ; Peças polêmicas e cheias de tensão
+T: Grupos marcantes | Teatro Brasileiro de Comédia (TBC) ; Teatro de Arena ; Teatro Oficina, de Zé Celso ; Grupo Galpão, de Belo Horizonte
+T: Ariano Suassuna e o teatro popular | Auto da Compadecida (1955) ; João Grilo e Chicó ; Mistura de cordel, auto medieval e humor ; Movimento Armorial
+D: Por que o teatro foi alvo da censura na ditadura? | Peças proibidas ; Atores presos ; O teatro como espaço de liberdade
+A: Cena de cordel | trechos do Auto da Compadecida | Leia a cena do enterro da cachorra ; Divida os personagens ; Ensaie com objetos simples ; Apresente com sotaque e humor
+R: Anchieta e Martins Pena ; Nelson Rodrigues ; Arena e Oficina ; Ariano Suassuna | O teatro brasileiro é cobrado com Auto da Compadecida e Nelson Rodrigues.
+
+# teatro-do-oprimido | Teatro do Oprimido | O espectador entra em cena | Teatro | Teatro brasileiro | expressao | 
+B: Augusto Boal | 1931 – 2009 | Diretor e teatrólogo carioca ; Dirigiu o Teatro de Arena ; Foi preso e exilado na ditadura ; Criou o Teatro do Oprimido, usado no mundo todo
+C: Teatro do Oprimido | Método que usa o teatro para discutir opressões reais e buscar soluções com a participação do público. | O espectador vira "espect-ator".
+T: Técnicas | Teatro-Fórum: o público entra e muda a cena ; Teatro-Imagem: estátuas com o corpo ; Teatro Invisível: cenas na rua sem avisar ; Teatro Legislativo: propostas de leis
+T: Como funciona o Teatro-Fórum | Atores mostram uma situação de opressão ; A cena termina mal ; O público para a cena e substitui o oprimido ; Juntos, testam soluções
+D: O teatro pode mudar a realidade? | Ensaiar soluções para problemas reais ; Bullying, racismo, machismo ; Quem é oprimido na escola?
+A: Teatro-fórum na escola | situação-problema | Escolham uma situação de injustiça na escola ; Encenem até o momento do conflito ; Colegas entram e tentam outra solução ; Discutam o que funcionou
+R: Augusto Boal ; Espect-ator ; Teatro-Fórum e Teatro-Imagem ; Teatro para transformar | O Teatro do Oprimido é cobrado como contribuição brasileira ao teatro mundial.
+
+# elementos-da-cena | Elementos da cena | Cenário, figurino, luz e som | Teatro | Fundamentos do teatro | cena | 
+T: Quem faz o teatro acontecer | Dramaturgo: escreve o texto ; Diretor: organiza o espetáculo ; Atores: dão vida aos personagens ; Técnicos: luz, som e cenário
+C: Cenografia | Criação do espaço da cena, com objetos, móveis, painéis e projeções. | Um único banco pode virar praça, ônibus ou trono.
+C: Figurino | Roupas e acessórios dos personagens, que indicam época, classe social e personalidade. | Uma coroa de papel transforma um ator em rei.
+X: Luz e som | Iluminação: Cria clima ; Mostra o tempo ; Direciona o olhar | Sonoplastia: Música e ruídos ; Ritmo da cena ; Efeitos
+D: Dá para fazer teatro sem cenário? | Teatro pobre, de Grotowski ; A imaginação do público completa ; O que é indispensável?
+A: Cenário com uma cadeira | uma cadeira ; tecidos ; lanterna | Em grupos, transformem a cadeira em três lugares diferentes ; Use só tecido e luz ; Apresente as transformações ; A turma adivinha os lugares
+R: Dramaturgia, direção e atuação ; Cenografia ; Figurino ; Luz e som | Questões pedem a função dos elementos cênicos na construção do sentido.
+
+# improvisacao-teatral | Improvisação teatral | Criar no momento | Teatro | Fundamentos do teatro | pop | 
+C: Improvisação | Criação de cenas na hora, sem texto decorado, a partir de propostas e regras. | Muito usada em jogos teatrais e espetáculos de humor.
+T: Regras de ouro | Aceitar a proposta do colega ("sim, e...") ; Escutar com atenção ; Construir junto ; Não ter medo de errar
+T: Jogos teatrais | Viola Spolin criou jogos para ensinar teatro ; Jogos de atenção e confiança ; Jogos de personagem e espaço ; Usados em escolas no mundo todo
+X: Bloquear e aceitar | Bloquear: "Não, isso não é um carro" ; A cena trava | Aceitar: "Sim, e o carro está voando!" ; A cena cresce
+D: O improviso ajuda fora do teatro? | Entrevistas e apresentações ; Conversas difíceis ; Lidar com o inesperado
+A: Sim, e... | roda da turma | Um aluno começa uma história com uma frase ; O próximo continua com "sim, e..." ; Ninguém pode negar o que foi dito ; Depois, encenem a história criada
+R: Criar no momento ; Aceitar e construir ; Jogos teatrais de Viola Spolin ; Escuta e coletividade | A improvisação aparece em questões sobre jogos teatrais e processo criativo.
+
+# brecht-e-stanislavski | Stanislavski e Brecht | Viver o personagem ou pensar sobre ele? | Teatro | História do teatro | cena | 
+B: Constantin Stanislavski | 1863 – 1938 | Diretor e ator russo ; Criou um sistema de interpretação realista ; Pedia que o ator buscasse a verdade emocional ; Base do teatro e do cinema realistas
+B: Bertolt Brecht | 1898 – 1956 | Dramaturgo e diretor alemão ; Criou o teatro épico ; Queria um público crítico, não hipnotizado ; Peças como Mãe Coragem e Seus Filhos
+X: Dois caminhos | Stanislavski: Identificação com o personagem ; Emoção verdadeira ; Ilusão de realidade | Brecht: Distanciamento ; Pensamento crítico ; Mostra que é teatro
+C: Distanciamento | Recurso de Brecht que quebra a ilusão para o público pensar: placas, canções, atores falando com a plateia. | O ator pode sair do personagem e comentar a cena.
+D: O que é melhor: se emocionar ou pensar? | Dá para fazer os dois? ; Novelas fazem o quê? ; Que peça você gostaria de ver?
+A: Uma cena, dois estilos | uma cena curta | Encene uma situação de forma realista e emocionada ; Repita com distanciamento: placas e comentários ao público ; Compare as reações ; Discuta o efeito de cada estilo
+R: Stanislavski e a verdade emocional ; Brecht e o teatro épico ; Identificação e distanciamento ; Teatro crítico | Questões comparam o teatro de identificação e o teatro épico de Brecht.
+
+# teatro-de-bonecos | Teatro de bonecos | Objetos que ganham vida | Teatro | Fundamentos do teatro | brasil | Madrid Marionettentheater Kinder-20150110-RM-144736.jpg
+T: Tipos de boneco | Fantoche: vestido na mão ; Marionete: movido por fios ; Vara: sustentado por varetas ; Sombra: silhuetas atrás de uma tela
+C: Mamulengo | Teatro de bonecos popular do Nordeste, com humor, improviso e conversa com o público. | Patrimônio Cultural do Brasil desde 2015.
+O: Teatro de marionetes infantil | Fotografia ; 2015 ; teatro de bonecos ; Madri, Espanha | Crianças atentas ao palco pequeno ; O boneco como ator ; Encantamento de todas as idades
+T: Pelo mundo | Teatro de sombras da Indonésia (wayang) ; Bunraku do Japão ; Mamulengo de Pernambuco ; Giramundo, de Minas Gerais
+D: Por que um boneco nos faz acreditar que está vivo? | A voz e o movimento ; A imaginação do público ; Animações fazem o mesmo?
+A: Teatro de sombras | caixa ; papel vegetal ; lanterna ; palitos ; cartolina | Monte uma tela com papel vegetal numa caixa ; Recorte silhuetas em cartolina ; Ilumine por trás ; Apresente uma lenda brasileira
+R: Fantoche, marionete, vara e sombra ; Mamulengo ; Tradições do mundo ; A ilusão da vida | O mamulengo aparece em questões sobre teatro popular e patrimônio.
+
+# circo | Circo | A arte do picadeiro | Teatro | Fundamentos do teatro | pop | 
+C: Circo | Espetáculo com acrobacias, palhaços, malabares e números de risco, apresentado num picadeiro. | O circo moderno nasceu em Londres, em 1768.
+T: Artes do circo | Palhaçaria ; Acrobacia e trapézio ; Malabares e equilíbrio ; Mágica
+T: Circo no Brasil | Circos de família que viajavam pelo interior ; Piolin, palhaço admirado pelos modernistas ; Escolas de circo, como a Escola Nacional de Circo ; Circo social em comunidades
+C: Palhaço | Artista cômico que transforma o fracasso e o ridículo em poesia e riso. | O nariz vermelho é chamado de "a menor máscara do mundo".
+D: Animais no circo: tradição ou crueldade? | Leis brasileiras proibiram em vários estados ; O circo novo usa só artistas ; O que mudou na visão sobre animais?
+A: Número de palhaço | nariz de palhaço ou de papel | Crie um palhaço com nome e jeito de andar ; Escolha uma tarefa simples que dá errado ; Ensaie a cena sem falas ; Apresente para a turma
+R: Picadeiro e acrobacias ; Palhaçaria ; Circo de família e circo social ; Debate sobre animais | O circo aparece em questões sobre artes populares e linguagem do corpo.
+
+# dramaturgia | Dramaturgia | Escrever para a cena | Teatro | Fundamentos do teatro | atelie | 
+C: Dramaturgia | Arte de escrever textos para o teatro, com diálogos, ações e indicações para a cena. | O texto teatral é feito para ser falado e encenado.
+T: Estrutura clássica | Exposição: apresenta personagens e lugar ; Conflito: o problema aparece ; Clímax: o momento de maior tensão ; Desfecho: a solução
+C: Rubrica | Indicação no texto teatral de ações, sentimentos, cenário ou movimentos, geralmente entre parênteses. | (Entra correndo e bate a porta.)
+X: Conto e texto teatral | Conto: Narrador ; Descrições ; Leitura silenciosa | Texto teatral: Diálogos ; Rubricas ; Feito para a cena
+D: Uma conversa do dia a dia pode virar peça? | Escute diálogos na fila do ônibus ; O que torna uma conversa dramática? ; Conflito é indispensável?
+A: Cena de três páginas | papel ; caneta | Crie dois personagens com um desejo cada ; Coloque-os num lugar em conflito ; Escreva diálogos e rubricas ; Leiam em voz alta em grupo
+R: Escrever para a cena ; Exposição, conflito, clímax, desfecho ; Rubricas ; Diálogo | O texto teatral é cobrado como gênero, com atenção às rubricas.
+
+# teatro-de-rua | Teatro de rua | A cidade como palco | Teatro | Teatro brasileiro | brasil | Bumba meu boi - Maranhão, Brasil.jpg
+C: Teatro de rua | Teatro apresentado em praças, ruas e feiras, gratuito e aberto a quem passar. | O público pode chegar e sair a qualquer momento.
+T: Características | Voz forte e gestos amplos ; Música e cortejo ; Interação com o público ; Cenários leves e portáteis
+T: Grupos brasileiros | Grupo Galpão, de Belo Horizonte ; Tá na Rua, do Rio de Janeiro ; Teatro de Anônimo ; Grupos de bumba meu boi e pastoris
+O: Bumba meu boi | Grupos do Maranhão ; tradição popular ; música, dança e teatro ; ruas e terreiros | O auto da morte e ressurreição do boi ; Personagens como Pai Francisco e Catirina ; Teatro popular de rua
+D: Teatro de rua é mais democrático? | Quem vai ao teatro fechado? ; A rua é um espaço de todos? ; Que história você contaria na praça?
+A: Cortejo teatral | instrumentos ; tecidos ; cartazes | Criem um pequeno cortejo com música ; Parem no pátio para uma cena de dois minutos ; Chamem o público a participar ; Encerrem com uma canção
+R: Teatro gratuito e aberto ; Voz forte e cortejo ; Galpão e Tá na Rua ; Bumba meu boi como teatro popular | O teatro de rua aparece ligado à cultura popular e ao espaço público.
+
+# danca-o-que-e | O que é dança? | O corpo que se move com sentido | Dança | Fundamentos da dança | cena | Renoir, Pierre-Auguste - Dance at Le Moulin de la Galette, 1876.jpg
+C: Dança | Arte que usa o corpo em movimento, com ritmo, espaço e intenção, para expressar e comunicar. | Pode ter música ou acontecer no silêncio.
+T: Para que se dança | Rituais e celebrações ; Diversão e encontro ; Espetáculo artístico ; Expressão de identidade
+O: Baile no Moulin de la Galette | Pierre-Auguste Renoir ; 1876 ; óleo sobre tela ; Museu d'Orsay, Paris | Casais dançando ao ar livre ; O domingo como festa ; A dança como encontro social
+X: Dança social e dança cênica | Social: Festas e bailes ; Todos participam ; Forró, samba, valsa | Cênica: Palco ; Público assiste ; Balé, dança contemporânea
+D: Todo mundo sabe dançar? | Vergonha de dançar ; Por que crianças dançam sem medo? ; Dança tem gênero?
+A: Dança do nome | espaço livre | Cada aluno cria um movimento para cada sílaba do nome ; Ensina para a turma ; Juntem os nomes numa sequência coletiva ; Apresentem com música
+R: Corpo em movimento com sentido ; Ritual, festa e espetáculo ; Dança social e cênica ; Identidade | A dança é cobrada como linguagem do corpo e expressão cultural.
+
+# elementos-da-danca | Elementos da dança | Corpo, espaço, tempo e peso | Dança | Fundamentos da dança | bauhaus | 
+B: Rudolf Laban | 1879 – 1958 | Dançarino e teórico húngaro ; Criou um sistema para estudar o movimento ; Inventou uma escrita da dança (labanotação) ; Base para o ensino da dança até hoje
+T: Fatores do movimento | Peso: leve ou firme ; Tempo: súbito ou sustentado ; Espaço: direto ou flexível ; Fluência: livre ou controlada
+T: Níveis e direções | Níveis: baixo, médio e alto ; Direções: frente, trás, lados, diagonal ; Trajetórias no chão: retas, curvas, espirais ; Movimento parado e em deslocamento
+X: Movimento cotidiano e dançado | Cotidiano: Andar, pegar, sentar ; Tem uma função | Dançado: Os mesmos gestos com intenção ; Repetidos, ampliados, ritmados
+D: Um gesto do dia a dia pode virar dança? | Escovar os dentes em câmera lenta ; Pina Bausch usava gestos comuns ; Que gesto seu viraria dança?
+A: Coreografia do cotidiano | espaço livre ; música | Escolha três gestos do dia a dia ; Faça cada um em nível baixo, médio e alto ; Varie a velocidade ; Junte em grupo numa coreografia
+R: Laban e o estudo do movimento ; Peso, tempo, espaço e fluência ; Níveis e direções ; Gesto cotidiano | Os elementos de Laban aparecem em questões sobre dança na escola.
+
+# bale-classico | Balé clássico | Leveza, técnica e sapatilhas | Dança | História da dança | galeria | Edgar Degas - The Ballet Class - Google Art Project.jpg
+L: Linha do tempo | 1661: Luís XIV cria a Academia Real de Dança ; 1832: La Sylphide e as sapatilhas de ponta ; 1877: O Lago dos Cisnes, de Tchaikovsky ; 1968: fundação do Balé da Cidade de São Paulo
+C: Balé | Dança cênica de técnica rigorosa, com posições codificadas, saltos e giros, e termos em francês. | Plié, pas de deux, pirueta.
+T: Características | Postura ereta e leveza ; Sapatilhas de ponta para as bailarinas ; Cinco posições básicas dos pés ; Histórias contadas sem palavras
+T: No Brasil | Escola do Teatro Bolshoi, em Joinville ; Ana Botafogo e Thiago Soares ; Balé da Cidade de São Paulo ; Projetos sociais de balé em comunidades
+G: O balé visto por Degas | Edgar Degas - The Ballet Class - Google Art Project.jpg :: A aula de balé, c. 1874 ; Renoir, Pierre-Auguste - Dance at Le Moulin de la Galette, 1876.jpg :: Renoir, Baile no Moulin de la Galette, 1876: a dança popular
+D: O balé é para todos os corpos? | Padrões de corpo no balé ; Meninos no balé ; Bailarinas negras ganhando espaço
+A: As cinco posições | espaço livre ; barra ou cadeira | Aprenda as cinco posições dos pés ; Faça um plié em cada uma ; Crie uma pequena sequência ; Mostre em dupla
+R: Corte francesa ; Técnica codificada ; Sapatilhas de ponta ; Balé no Brasil | O balé aparece em questões sobre dança cênica e padrões corporais.
+
+# danca-moderna-e-contemporanea | Dança moderna e contemporânea | Libertar o corpo | Dança | História da dança | expressao | 
+X: Moderna e contemporânea | Moderna (início do séc. XX): Contra as regras do balé ; Pés descalços ; Emoção | Contemporânea (desde os anos 1960): Qualquer movimento ; Mistura linguagens ; Corpo como pensamento
+T: Pioneiros | Isadora Duncan e a dança livre ; Martha Graham e a contração e o relaxamento ; Merce Cunningham e o acaso ; Pina Bausch e a dança-teatro
+B: Pina Bausch | 1940 – 2009 | Coreógrafa alemã ; Criou a dança-teatro (Tanztheater) ; Usava gestos do cotidiano e perguntas aos bailarinos ; Fez uma obra inspirada no Brasil, Água
+T: No Brasil | Grupo Corpo, de Belo Horizonte ; Deborah Colker e seus cenários gigantes ; Lia Rodrigues e a Maré ; Balé Folclórico da Bahia
+D: Se qualquer movimento pode ser dança, o que define a dança? | Intenção ; Contexto ; Olhar do público
+A: Dança a partir de perguntas | papéis com perguntas | Sorteie uma pergunta, como "o que você faz quando está com medo?" ; Responda só com movimentos ; Repita três vezes ; Junte com colegas
+R: Libertação do balé ; Isadora, Graham, Pina ; Dança-teatro ; Grupo Corpo e Deborah Colker | A dança contemporânea aparece em questões sobre corpo e expressão.
+
+# dancas-populares-brasileiras | Danças populares brasileiras | Um país que dança | Dança | Dança brasileira | brasil | Bumba meu boi - Maranhão, Brasil.jpg
+T: Pelo Brasil | Frevo e maracatu em Pernambuco ; Carimbó no Pará ; Xaxado e forró no Nordeste ; Catira e congada no Sudeste e Centro-Oeste
+C: Carimbó | Dança de roda do Pará, com saias rodadas, tambores e influências indígenas, africanas e portuguesas. | Patrimônio Cultural do Brasil desde 2014.
+O: Bumba meu boi do Maranhão | grupos populares ; tradição de mais de 200 anos ; dança, música e teatro ; São Luís | O boi bordado gira no centro ; Vários "sotaques", como matraca e orquestra ; Festa junina maranhense
+X: Frevo e carimbó | Frevo: Passos rápidos e acrobáticos ; Sombrinha ; Carnaval de rua | Carimbó: Movimento de roda ; Saia rodada ; Festas do Pará
+D: Por que as danças populares estão ligadas às festas religiosas? | São João, Divino, Nossa Senhora ; Fé e alegria juntas ; Que dança tem na sua cidade?
+A: Mapa das danças | mapa do Brasil ; vídeos | Cada grupo pesquisa uma dança regional ; Aprende um passo básico ; Ensina para a turma ; Montem um "baile do Brasil"
+R: Frevo, maracatu, carimbó, catira ; Patrimônio imaterial ; Festas e religiosidade ; Diversidade regional | Danças populares aparecem em questões sobre diversidade e patrimônio.
+
+# capoeira | Capoeira | Luta, dança e resistência | Dança | Dança brasileira | raiz | 
+C: Capoeira | Expressão afro-brasileira que une luta, dança, música e jogo, criada por africanos escravizados e seus descendentes. | Patrimônio Cultural Imaterial da Humanidade pela UNESCO desde 2014.
+T: A roda | Berimbau comanda o jogo ; Pandeiro, atabaque e agogô ; Cantos de pergunta e resposta ; Dois jogadores no centro
+X: Angola e Regional | Angola: Mais lenta e próxima do chão ; Mestre Pastinha ; Tradição | Regional: Mais rápida e atlética ; Mestre Bimba ; Golpes sistematizados
+T: Da proibição ao reconhecimento | Foi proibida pelo Código Penal de 1890 ; Mestre Bimba abriu a primeira academia em 1932 ; Hoje é praticada em mais de 150 países ; Roda de capoeira é patrimônio da UNESCO
+D: Capoeira é luta ou dança? | Por que ela disfarçava a luta em dança? ; Resistência cultural ; O que a capoeira ensina sobre respeito?
+A: Ginga na roda | espaço livre ; berimbau ou música gravada | Aprenda a ginga, o movimento básico ; Pratique a esquiva em dupla, sem contato ; Cante um corrido simples ; Forme uma roda da turma
+R: Luta, dança, música e jogo ; Berimbau e roda ; Angola e Regional ; Patrimônio da Humanidade | A capoeira é muito cobrada como resistência afro-brasileira e patrimônio.
+
+# dancas-urbanas | Danças urbanas | Breaking, passinho e muito mais | Dança | Dança brasileira | pop | Grafite - Paulo Speto, Museu Afro Brasil 1.JPG
+C: Danças urbanas | Danças nascidas nas ruas e periferias, ligadas à música e à cultura jovem. | Breaking, popping, locking, krump, passinho e vogue.
+T: Breaking | Nasceu no Bronx, Nova York, nos anos 1970 ; Um dos quatro elementos do hip-hop ; Toprock, footwork, freezes e power moves ; Entrou nos Jogos Olímpicos de Paris 2024
+T: Passinho | Dança surgida nos bailes funk do Rio nos anos 2000 ; Mistura funk, frevo, samba e break ; Batalhas e vídeos na internet ; Reconhecido como patrimônio cultural do Rio
+X: Batalha e coreografia | Batalha: Improviso ; Disputa respeitosa ; Resposta ao outro | Coreografia: Ensaiada ; Grupo sincronizado ; Espetáculo
+D: Danças de rua merecem estar em teatros e Olimpíadas? | Reconhecimento ou perda da essência? ; Preconceito contra a periferia ; Que dança jovem você conhece?
+A: Batalha amistosa | música de batida ; espaço livre | Em dupla, cada um tem 30 segundos para mostrar passos ; O outro responde com outros movimentos ; Valorizem a criatividade, não a força ; Toda a turma aplaude todos
+R: Breaking e hip-hop ; Passinho do funk ; Batalha e coreografia ; Cultura da periferia | As danças urbanas aparecem em questões sobre juventude e cultura periférica.
+
+# dancas-afro-brasileiras | Danças afro-brasileiras | Ancestralidade em movimento | Dança | Dança brasileira | raiz | Abebé - Objeto ritual de Oxum MN 01.jpg
+T: Danças | Samba de roda do Recôncavo Baiano ; Jongo, no Sudeste ; Maracatu e coco ; Danças dos orixás
+C: Samba de roda | Dança e música do Recôncavo Baiano, com palmas, viola e a umbigada, em roda. | Patrimônio da Humanidade pela UNESCO desde 2005.
+T: Características | Movimento a partir do quadril e do tronco ; Relação com o chão ; Roda e pergunta e resposta ; Ligação com a ancestralidade
+T: Grupos e artistas | Balé Folclórico da Bahia ; Ilê Aiyê e os blocos afro ; Mercedes Baptista, primeira bailarina negra do Theatro Municipal do Rio ; Companhias de dança afro contemporânea
+D: Por que é importante a escola ensinar danças afro-brasileiras? | Lei 10.639 ; Combate ao racismo ; Identidade e pertencimento
+A: Samba de roda | palmas ; pandeiro | Forme uma roda ; Marque o ritmo com palmas ; Um de cada vez entra no centro e samba ; Convida o próximo com a umbigada, de forma respeitosa
+R: Samba de roda, jongo, coco, maracatu ; Quadril, chão e roda ; Mercedes Baptista ; Ancestralidade | As danças afro-brasileiras são cobradas como patrimônio e pela Lei 10.639.
+
+# dancas-indigenas | Danças indígenas | Corpo, ritual e comunidade | Dança | Dança brasileira | raiz | 
+C: Toré | Dança ritual de vários povos indígenas do Nordeste, em roda, com maracás e cantos. | Expressão de identidade e luta por direitos.
+T: Características | Dança coletiva, em roda ou fila ; Ligada a rituais, colheitas e passagens da vida ; Pinturas corporais e adornos ; Música de maracás, flautas e cantos
+T: Exemplos | Toré, no Nordeste ; Kuarup, no Xingu ; Danças do Jaguar e da Onça ; Festas de colheita e de iniciação
+O: Líderes indígenas | Edgar Kanaykõ Xakriabá ; século XXI ; fotografia ; Wikimedia Commons | Cocares e pinturas ; Presença e luta coletiva ; Arte e política juntas
+D: Por que não devemos usar a dança indígena como "fantasia"? | Significado sagrado ; Respeito à cultura viva ; Diferença entre conhecer e se apropriar
+A: Dança da roda e do ritmo | maracás feitos pela turma | Aprenda sobre o toré com vídeos de povos indígenas ; Formem uma roda e marquem o ritmo com os pés ; Acompanhem com maracás ; Conversem sobre o respeito a rituais
+R: Toré e Kuarup ; Dança coletiva e ritual ; Pintura e adorno ; Respeito e não apropriação | A Lei 11.645 tornou obrigatório estudar as culturas indígenas, incluindo suas danças.
+
+# festa-junina-e-quadrilha | Festa junina e quadrilha | Dança, fogueira e tradição | Dança | Dança brasileira | brasil | 
+C: Quadrilha | Dança em pares com marcação de passos, de origem europeia, que virou símbolo das festas juninas brasileiras. | Os comandos vêm do francês: anarriê, balancê.
+T: Elementos da festa | Fogueira e bandeirinhas ; Comidas de milho ; Forró e baião ; Casamento na roça
+T: São João do Nordeste | Campina Grande e Caruaru disputam o "maior São João do mundo" ; Quadrilhas juninas competem com figurinos luxuosos ; Festas duram o mês inteiro ; Economia e turismo
+X: Quadrilha caipira e junina estilizada | Caipira: Roupas simples ; Brincadeira na escola ; Passos tradicionais | Estilizada: Figurinos de luxo ; Coreografias complexas ; Competições
+D: A festa junina reforça estereótipos do caipira? | Dentes pintados e roupas rasgadas ; O homem do campo é assim? ; Como fazer uma festa respeitosa?
+A: Quadrilha da turma | música de forró ; espaço | Aprenda os comandos: anarriê, balancê, caminho da roça ; Formem os pares ; Um aluno faz o marcador ; Criem um passo novo e deem um nome
+R: Origem europeia, cara brasileira ; Fogueira, milho e forró ; São João do Nordeste ; Debate sobre estereótipos | A festa junina aparece em questões sobre cultura popular e identidade regional.
+
+# danca-e-inclusao | Dança e inclusão | Todos os corpos dançam | Dança | Fundamentos da dança | expressao | 
+T: Dança para todos | Pessoas com deficiência dançam e criam ; Cadeirantes em companhias profissionais ; Pessoas surdas dançam sentindo as vibrações ; Idosos e crianças em grupos de dança
+T: Companhias e projetos | Candoco Dance Company, de Londres ; Cia. Roda Viva, em Natal ; Grupos de dança em cadeira de rodas ; Projetos em escolas e hospitais
+C: Acessibilidade cultural | Garantia de que todas as pessoas possam criar e assistir à arte, com recursos como audiodescrição e Libras. | Espetáculos com intérprete de Libras e piso tátil.
+X: Integração e inclusão | Integração: A pessoa se adapta ao grupo | Inclusão: O grupo se transforma para que todos participem
+D: O que impede algumas pessoas de dançar? | Barreiras físicas ou de preconceito? ; A escola é acessível? ; Como adaptar uma aula de dança?
+A: Coreografia sentada | cadeiras ; música | Criem uma coreografia que todos possam fazer sentados ; Usem braços, cabeça e tronco ; Incluam um gesto em Libras ; Apresentem juntos
+R: Todos os corpos dançam ; Companhias inclusivas ; Acessibilidade cultural ; Inclusão transforma o grupo | Questões sobre inclusão e acessibilidade aparecem em várias áreas do Enem.
+
+# danca-e-tecnologia | Dança e tecnologia | Corpos, telas e redes | Dança | História da dança | pop | 
+T: Encontros | Videodança: obras feitas para a câmera ; Dança com projeções e sensores ; Coreografias virais nas redes ; Jogos de dança e captura de movimento
+C: Videodança | Obra em que dança e câmera criam juntas, pensada para ser vista em vídeo, não no palco. | A câmera também "dança" com o corpo.
+X: Palco e redes sociais | Palco: Coreografia longa ; Público presente ; Experiência coletiva | Redes: Trechos curtos ; Desafios e repetição ; Alcance enorme
+T: Quem cria a dança viral? | Muitos passos nascem em periferias ; Artistas negros nem sempre recebem crédito ; Debate sobre autoria ; Dança como meio de vida
+D: Uma dança de 15 segundos é arte? | Criatividade e repetição ; Quem ganha com o viral? ; O que a dança perde no celular?
+A: Videodança de 30 segundos | celular | Escolha um lugar da escola ; Crie uma sequência de movimentos ; Filme com a câmera também em movimento ; Exiba e discuta as escolhas
+R: Videodança ; Projeções e sensores ; Danças virais ; Debate sobre crédito e autoria | A relação entre dança, tecnologia e redes aparece em questões sobre cultura digital.
+
+# historia-da-danca-no-brasil | Dança cênica no Brasil | Dos teatros às companhias | Dança | História da dança | galeria | 
+L: Linha do tempo | 1927: primeira escola de balé no Theatro Municipal do Rio ; 1936: Corpo de Baile do Theatro Municipal do Rio ; 1975: fundação do Grupo Corpo ; 2000: Escola do Teatro Bolshoi no Brasil, em Joinville
+B: Mercedes Baptista | 1921 – 2014 | Primeira bailarina negra do Theatro Municipal do Rio ; Enfrentou o racismo no balé ; Criou um balé de dança afro-brasileira ; Coreografou desfiles de escolas de samba
+T: Grupo Corpo | Fundado em Belo Horizonte em 1975 ; Mistura balé e ritmos brasileiros ; Trilhas de Milton Nascimento, Caetano e Tom Zé ; Apresentações no mundo todo
+T: Outros nomes | Klauss Vianna e o estudo do corpo ; Deborah Colker ; Ivaldo Bertazzo ; Lia Rodrigues
+D: Por que é importante conhecer a dança feita no Brasil? | Diversidade de corpos e ritmos ; Valorização dos artistas ; Que grupo de dança existe perto de você?
+A: Coreografia com ritmo brasileiro | música brasileira | Escolha uma música de MPB ou samba ; Crie oito tempos de movimento inspirados no balé ; Acrescente oito tempos inspirados em danças populares ; Una as duas partes
+R: Theatro Municipal e o balé ; Mercedes Baptista ; Grupo Corpo ; Diversidade da dança cênica | A dança cênica brasileira aparece ligada à identidade e à mistura de linguagens.
+
+# artes-integradas | Artes integradas | Quando as linguagens se encontram | Artes Visuais | Fundamentos | sonho | PianOrquestra no Theatro Municipal do Rio de Janeiro, 2010.jpg
+C: Artes integradas | Obras e práticas que unem várias linguagens, como música, teatro, dança, artes visuais e tecnologia. | A ópera, o carnaval e os games são artes integradas.
+T: Exemplos | Ópera: música, teatro e cenário ; Carnaval: música, dança, escultura e figurino ; Cinema: imagem, som e atuação ; Instalações com vídeo, som e luz
+T: Na Semana de 22 | Pintura de Anita e Di ; Escultura de Brecheret ; Poesia de Mário e Oswald ; Música de Villa-Lobos
+X: Uma linguagem e várias | Uma linguagem: Foco técnico ; Especialização | Várias linguagens: Diálogo ; Criação coletiva ; Experiência completa
+D: Qual é a arte que mais mistura linguagens hoje? | Videoclipes? Games? Desfiles? ; Por que a mistura atrai? ; Que projeto integrado a escola poderia fazer?
+A: Mostra integrada | todos os materiais da turma | Escolham um tema único, como "água" ; Cada grupo cria em uma linguagem: música, cena, dança, pintura ; Unam tudo numa apresentação de dez minutos ; Convidem outra turma
+R: União de linguagens ; Ópera, carnaval, cinema ; Semana de 22 como exemplo ; Criação coletiva | A BNCC propõe as artes integradas, e o tema aparece em questões interdisciplinares.
